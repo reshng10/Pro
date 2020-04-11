@@ -1,0 +1,16 @@
+ATOL	is.;
+ATOM	is.;
+ATOM-GÜC	is.;
+ATOM-MOLEKUL	is.;
+ATOMLARARASI	sif.;
+ATOMOXOD	is.;
+ATOMSUZLAŞDIR	f.;
+ATOMÇU	is.;
+ATOMİST	is.;
+ATOMİSTİK	sif.;
+ATOMİSTİKA	is.;
+ATOMİZM	is.;
+ATONAL	is.;
+ATONİK	sif.;
+ATONİYA	is.;
+ATOTARAN	is.;

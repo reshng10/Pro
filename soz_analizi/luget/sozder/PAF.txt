@@ -1,0 +1,4 @@
+PAFOS	f.;
+PAFOSLU	sif.;
+PAFTA	is.;
+PAFTATUTAN	is.;

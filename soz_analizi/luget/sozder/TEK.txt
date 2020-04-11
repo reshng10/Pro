@@ -1,0 +1,6 @@
+TEKSTOLOGİYA	is.;
+TEKSTOLİT	sif.;
+TEKSTUR	is.;
+TEKTONİK	sif.;
+TEKTONİK-MAQMATİK	sif.;
+TEKTONİKA	is.;

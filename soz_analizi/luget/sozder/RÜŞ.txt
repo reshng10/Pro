@@ -1,0 +1,13 @@
+RÜŞDİYYƏ	is.;
+RÜŞEYMCİK	is.;
+RÜŞEYMLİ	sif.;
+RÜŞEYMLİLİK	is.;
+RÜŞEYMSİZ	sif.;
+RÜŞEYMSİZLİK	is.;
+RÜŞEYMXARİCİ	sif.;
+RÜŞVƏT	is.;
+RÜŞVƏTVERƏN	sif.;
+RÜŞVƏTXOR	sif.;
+RÜŞVƏTXORLUQ	is.;
+RÜŞVƏTÇİ	sif.;
+RÜŞVƏTÇİLİK	is.;

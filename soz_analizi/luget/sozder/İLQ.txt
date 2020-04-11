@@ -1,0 +1,5 @@
+İLQAR	is.;
+İLQARLI	sif.;
+İLQARLILIQ	is.;
+İLQARSIZ	sif.;
+İLQARSIZLIQ	is.;

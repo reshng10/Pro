@@ -1,0 +1,12 @@
+ÜÇQANADLI	sif.;
+ÜÇQAPILI	sif.;
+ÜÇQAT	sif.;
+ÜÇQAT(LI)	sif.;
+ÜÇQATLI	sif.;
+ÜÇQIÇLI	sif.;
+ÜÇQRAMLIQ	is.;
+ÜÇQULAQ	sif.;
+ÜÇQULAQLI	sif.;
+ÜÇQURŞAQLI	sif.;
+ÜÇQÜTBLÜ	sif.;
+ÜÇQƏPİKLİK	is.;sif.;

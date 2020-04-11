@@ -1,0 +1,10 @@
+AUDİO-PLEYER	is.;
+AUDİOFONOLOGİYA	is.;
+AUDİOKASET	is.;
+AUDİOLOGİYA	is.;
+AUDİOMETR	is.;
+AUDİOMETRİYA	is.;
+AUDİOVİZUAL	sif.;
+AUDİT	is.;
+AUDİTOR	is.;
+AUDİTORİYA	is.;

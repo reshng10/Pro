@@ -1,0 +1,5 @@
+OD-ALOV	is.;
+OD-ATƏŞ	is.;
+OD-KÖZ	is.;
+OD-OCAQ	is.;
+OD-YALOV	is.;

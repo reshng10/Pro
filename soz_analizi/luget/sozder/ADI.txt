@@ -1,0 +1,13 @@
+ADI	ed.;
+ADIBATMIŞ	sif.;
+ADIBİLİNMƏZ	sif.;
+ADIBƏDNAM	sif.;
+ADIBƏDNAMLIQ	is.;
+ADIGEDƏN	f_sif.;
+ADIGEY	is.;
+ADIGEYCƏ	zer.;
+ADINA	is.;
+ADINALIQ	is.;
+ADIQ	is.;
+ADIVAYQANLI	is.;
+ADIÇƏKİLƏN	f_sif.;

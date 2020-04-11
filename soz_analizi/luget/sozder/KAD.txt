@@ -1,0 +1,11 @@
+KADET	is.;
+KADET	is.;
+KADMİUM	is.;
+KADMİUMLA	f.;
+KADMİUMLAN	f.;
+KADR	is.;
+KADR	is.;
+KADRDAXİLİ	sif.;
+KADRLARARASI	sif.;
+KADRQURMA	is.;
+KADRİL	is.;

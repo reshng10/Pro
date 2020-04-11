@@ -1,0 +1,15 @@
+NÜVƏ	is.;
+NÜVƏ-GÜC	is.;
+NÜVƏ-ONURĞA	is.;
+NÜVƏ-PLAZMA	is.;
+NÜVƏ-RAKET	is.;
+NÜVƏ-SİTOPLAZMA	is.;
+NÜVƏ-ULDUZ	is.;
+NÜVƏCİK	is.;
+NÜVƏCİK-NÜVƏ	is.;
+NÜVƏDAXİLİ	sif.;
+NÜVƏLİ	sif.;
+NÜVƏSİZ	sif.;
+NÜVƏSİZLİK	is.;
+NÜVƏYANI	sif.;
+NÜVƏİÇİ	sif.;

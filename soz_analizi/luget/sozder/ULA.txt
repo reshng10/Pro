@@ -1,0 +1,16 @@
+ULA	f.;
+ULAMAQ	f.;
+ULAN	is.;
+ULAQ	is.;
+ULAQLI	sif.;
+ULAQÇI	is.;
+ULARTI	is.;
+ULAS	is.;
+ULAT	f.;
+ULAYIŞ	is.;
+ULAŞ	f.;
+ULAŞDIR	f.;
+ULAŞMA	is.;
+ULAŞMA	is.;
+ULAŞMAQ	f.;
+ULAŞMAQ	f.; 

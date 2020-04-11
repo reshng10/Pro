@@ -1,0 +1,15 @@
+ƏRSİN	is.;
+ƏRSİNCİK	is.;
+ƏRSİNDİMDİK	is.;
+ƏRSİNDİMDİKKİMİ	sif.;
+ƏRSİNLƏ	f.;
+ƏRSİNLƏMƏ	f_is.;
+ƏRSİNLƏMƏK	f.;
+ƏRSİNLƏN	f.;
+ƏRSİNLƏNMƏ	f_is.;
+ƏRSİNLƏNMƏK	mech.;
+ƏRSİZ	zer.;sif.;
+ƏRSİZLİK	is.;
+ƏRSƏ	ed.;f.;is.;
+ƏRSƏMƏ	is.;
+ƏRSƏMƏK	ed.;is.;

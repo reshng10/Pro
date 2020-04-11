@@ -1,0 +1,13 @@
+ODA	is.;
+ODA	is.;
+ODA-SİMFONİYA	is.;
+ODABAŞI	is.;
+ODABAŞILIQ	is.;
+ODADAVAMLI	sif.;
+ODADAVAMLILIQ	is.;
+ODADAVAMSIZ	sif.;
+ODADAVAMSIZLIQ	is.;
+ODADÖZÜMLÜ	sif.;
+ODADÖZÜMLÜLÜK	is.;
+ODADƏYANƏTLİ	sif.;
+ODALIQ	is.;

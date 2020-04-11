@@ -1,0 +1,4 @@
+ƏTBALA	is.;
+ƏTBAŞ	sif.;
+ƏTBAŞLI	sif.;
+ƏTBAŞLILIQ	is.;

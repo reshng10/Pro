@@ -1,0 +1,11 @@
+BİELETROLİZ	is.;
+BİELM	sif.;
+BİELMLİK	is.;
+BİETİBAR	f.;sif.;
+BİETİBARLIQ	is.;
+BİETİMAD	is.;
+BİETİMADLIQ	is.;
+BİETİNA	zer.;
+BİETİNALIQ	is.;
+BİEYB	sif.;
+BİEYBLİK	is.;

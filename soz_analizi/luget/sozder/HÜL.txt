@@ -1,0 +1,7 @@
+HÜLQUM	is.;
+HÜLQUMLA	f.;
+HÜLQUMLAMA	f_is.;
+HÜLQUMLAMAQ	f.;
+HÜLQUMLAN	f.;
+HÜLQUMLU	sif.;
+HÜLQUMSUZ	sif.;

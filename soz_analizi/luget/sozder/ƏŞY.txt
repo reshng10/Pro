@@ -1,0 +1,7 @@
+ƏŞYA	is.;
+ƏŞYABAZ	sif.;
+ƏŞYABAZLIQ	is.;
+ƏŞYALIQ	is.;
+ƏŞYAYİ-DƏLİL	is.;
+ƏŞYAÇILIQ	is.;
+ƏŞYƏVİ	sif.;

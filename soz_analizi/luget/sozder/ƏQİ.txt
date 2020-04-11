@@ -1,0 +1,9 @@
+ƏQİDƏ	is.;
+ƏQİDƏLİ	sif.;
+ƏQİDƏLİLİK	is.;
+ƏQİDƏSİZ	sif.;
+ƏQİDƏSİZLİK	is.;
+ƏQİLLİ	zer.;sif.;
+ƏQİLLİ-BAŞLI	sif.;
+ƏQİLSİZ	zer.;sif.;
+ƏQİQ	is.;

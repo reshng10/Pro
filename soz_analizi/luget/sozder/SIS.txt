@@ -1,0 +1,10 @@
+SISLA	f.;
+SISLAMAQ	f.;
+SISQA	sif.;
+SISQA-MƏRƏZ	sif.;
+SISQAL	sif.;
+SISQALAN	f.;
+SISQALAŞ	f.;
+SISQALAŞMA	f_is.;
+SISQALAŞMAQ	f.;
+SISQALIQ	is.;

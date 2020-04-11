@@ -1,0 +1,4 @@
+POQON	is.;
+POQONFOR	is.;
+POQONLU	sif.;
+POQONSUZ	sif.;

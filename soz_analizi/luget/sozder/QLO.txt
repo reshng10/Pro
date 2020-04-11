@@ -1,0 +1,5 @@
+QLOBAL	is.;
+QLOBALLAŞ	f.;
+QLOBALLAŞDIR	f.;
+QLOBALLIQ	is.;
+QLOBUS	f.;

@@ -1,0 +1,10 @@
+PÜXTƏ	sif.;
+PÜXTƏLİK	is.;
+PÜXTƏLƏN	f.;
+PÜXTƏLƏNMƏ	f_is.;
+PÜXTƏLƏNMƏK	f.;
+PÜXTƏLƏŞ	f.;
+PÜXTƏLƏŞDİR	f.;
+PÜXTƏLƏŞDİRMƏ	f.;
+PÜXTƏLƏŞMƏ	f_is.;
+PÜXTƏLƏŞMƏK	f.;

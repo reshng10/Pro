@@ -1,0 +1,13 @@
+LABORANT	is.;
+LABORANTLIQ	is.;
+LABORATORİYA	is.;
+LABRADOR	is.;
+LABRADORİT	is.;
+LABÜD	zer.;
+LABÜDDƏN	zer.;
+LABÜDLÜK	is.;
+LABİLLİK	is.;
+LABİRİNT	is.;
+LABİRİNTLİ	sif.;
+LABİRİNTODONOT	is.;
+LABİRİNTOPATİYA	is.;

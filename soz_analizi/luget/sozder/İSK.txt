@@ -1,0 +1,12 @@
+İSKİT	is.;
+İSKƏLƏ	is.;
+İSKƏNCƏ	is.;
+İSKƏNCƏBİ	is.;
+İSKƏNCƏLİ	sif.;
+İSKƏNƏ	is.;
+İSKƏNƏLƏ	f.;
+İSKƏNƏLƏMƏ	f_is.;
+İSKƏNƏLƏMƏK	f.;
+İSKƏNƏLƏN	f.;
+İSKƏNƏLƏNMƏ	f_is.;
+İSKƏNƏLƏNMƏK	mech.;

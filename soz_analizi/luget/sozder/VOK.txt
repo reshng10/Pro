@@ -1,0 +1,9 @@
+VOKAL	sif.;
+VOKAL-XOREOQRAFİK	is.;
+VOKAL-XOREOQRAFİYA	is.;
+VOKALÇI	is.;
+VOKALÇILIQ	is.;
+VOKALİST	is.;
+VOKALİZ	is.;
+VOKALİZASİYA	is.;
+VOKALİZM	is.;

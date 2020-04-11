@@ -1,0 +1,3 @@
+DOPDOLU	sif.;
+DOPDOĞRU	sif.;zer.;
+DOPU	is.;

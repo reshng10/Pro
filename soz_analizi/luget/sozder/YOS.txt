@@ -1,0 +1,9 @@
+YOSMA	si
+YOSMALIQ	is.;
+YOSMARAQ	sif.;
+YOSUN	is.;
+YOSUNLAMAQ	f.;
+YOSUNLU	sif.;
+YOSUNLUQ	is.;
+YOSUNVARI	sif.;
+YOSUNVARİ	sif.;

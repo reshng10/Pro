@@ -1,0 +1,5 @@
+İNZİBAT	is.;
+İNZİBATÇI	is.;
+İNZİBATÇILIQ	is.;
+İNZİBATİ	sif.;
+İNZİVA	is.;

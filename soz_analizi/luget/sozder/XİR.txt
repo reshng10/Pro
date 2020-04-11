@@ -1,0 +1,17 @@
+XİRQƏ	is.;
+XİRTDƏK	is.;
+XİRTDƏKLİ	sif.;
+XİRTDƏKLƏ	f.;
+XİRTDƏKLƏMƏ	f_is.;
+XİRTDƏKLƏMƏK	f.;
+XİRTDƏKLƏN	f.;
+XİRTDƏKLƏNMƏ	f.;
+XİRTDƏKLƏŞ	f.;
+XİRTDƏKLƏŞMƏ	f.;is.;
+XİRTDƏKLƏŞMƏK	qars.;
+XİRTDƏKSİZ	sif.;
+XİRTDƏKÜSTÜ	sif.;
+XİRTDƏNƏK	is.;
+XİRİD	is.;
+XİRİDAR	f.;is.;
+XİRƏLƏMƏK	f.;

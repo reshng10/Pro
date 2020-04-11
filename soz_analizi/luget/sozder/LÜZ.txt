@@ -1,0 +1,6 @@
+LÜZUM	is.;
+LÜZUMLU	sif.;
+LÜZUMLULUQ	is.;
+LÜZUMSUZ	sif.;
+LÜZUMSUZLUQ	is.;
+LÜZUMİYYƏT	is.;

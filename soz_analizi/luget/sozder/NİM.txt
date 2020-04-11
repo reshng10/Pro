@@ -1,0 +1,13 @@
+NİMCAN	is.;
+NİMCANLIQ	is.;
+NİMDAŞ	sif.;
+NİMDAŞLIQ	is.;
+NİMDƏR	is.;
+NİMFA	is.;
+NİMFALİD	is.;
+NİMONİK	sif.;
+NİMTƏN(Ə)	is.;
+NİMTƏNƏLİ	sif.;
+NİMÇƏ	is.;
+NİMÇƏVARI	sif.;
+NİMÇƏVARİ	sif.;

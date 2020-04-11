@@ -1,0 +1,9 @@
+NUKLEAZA	is.;
+NUKLEOFİL	is.;
+NUKLEOPLAZMA	is.;
+NUKLEOPROTEİD	is.;
+NUKLEOTİD	is.;
+NUKLEUS	is.;
+NUKLEİN	is.;
+NUKLON	is.;
+NUKLİD	is.;

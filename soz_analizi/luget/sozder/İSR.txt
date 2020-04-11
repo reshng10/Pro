@@ -1,0 +1,15 @@
+İSRAF	is.;
+İSRAFCIL	is.;
+İSRAFCILLIQ	is.;
+İSRAFÇI	is.;
+İSRAFÇILIQ	is.;
+İSRAR	is.;zer.;
+İSRARLA	zer.;
+İSRARLI	sif.;
+İSRAĞAGÜN	zer.;
+İSRAĞAGÜNKÜ	sif.;
+İSRAİLLİ	is.;
+İSRAİLLİLƏR	is.;
+İSRAİLİ	is.;
+İSRİF	is.;
+İSRİFLİ	sif.;

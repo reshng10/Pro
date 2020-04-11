@@ -1,0 +1,16 @@
+BİİKRAH	f.;zer.;
+BİİLQAR	is.;
+BİİLQARLIQ	is.;
+BİİMAN	sif.;
+BİİMANLIQ	is.;
+BİİNSAF	zer.;sif.;
+BİİNSAFLIQ	is.;
+BİİNTİHA	sif.;
+BİİNTƏHA	is.;
+BİİQRAR	sif.;
+BİİQRARLIQ	is.;
+BİİSMƏT	is.;
+BİİXTİYAR	zer.;
+BİİXTİYARLIQ	is.;
+BİİZN	zer.;
+BİİZZƏT	is.;

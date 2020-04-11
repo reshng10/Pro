@@ -1,0 +1,6 @@
+ETDİR	f.;
+ETDİRMƏ	f.;
+ETDİRMƏK	f.;
+ETDİRİL	f.;
+ETDİRİLMƏ	f.;
+ETDİRİLMƏK	f.;

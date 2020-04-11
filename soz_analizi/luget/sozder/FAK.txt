@@ -1,0 +1,15 @@
+FAKS	is.;
+FAKT	is.;
+FAKTOQRAF	is.;
+FAKTOQRAFİK	sif.;
+FAKTOR	is.;
+FAKTURA	is.;
+FAKTURALI	sif.;
+FAKTURASIZ	sif.;
+FAKTÇILIQ	is.;
+FAKTİK	sif.;
+FAKTİKİ	sif.;
+FAKULTATİV	sif.;
+FAKÜLTATİV	sif.;
+FAKÜLTƏ	is.;
+FAKÜLTƏLƏRARASI	sif.;

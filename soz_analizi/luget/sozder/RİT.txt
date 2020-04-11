@@ -1,0 +1,6 @@
+RİTMLİ	sif.;
+RİTMLİLİK	is.;
+RİTMSİZ	sif.;
+RİTMSİZLİK	is.;
+RİTMİK	sif.;
+RİTORİK	sif.;

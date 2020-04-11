@@ -1,0 +1,5 @@
+UFACIQ	sif.;
+UFAL(A)TMAQ	f.;
+UFAQ	sif.;
+UFAQ-TUFAQ	sif.;
+UFAQLIQ	is.;

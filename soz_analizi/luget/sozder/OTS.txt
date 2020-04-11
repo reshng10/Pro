@@ -1,0 +1,3 @@
+OTSUZ	sif.;
+OTSUZ-ALAFSIZ	sif.;
+OTSUZLUQ	is.;

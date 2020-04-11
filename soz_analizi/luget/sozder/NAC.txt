@@ -1,0 +1,4 @@
+NACAQ	is.;
+NACAQLI	sif.;
+NACİNS	sif.;
+NACİNSLİK	is.;

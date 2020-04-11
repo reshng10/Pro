@@ -1,0 +1,5 @@
+İMDAD	is.;
+İMDADSIZ	sif.;
+İMDADSIZLIQ	is.;
+İMDİ	zer.;
+İMDİCƏ	f.;zer.;

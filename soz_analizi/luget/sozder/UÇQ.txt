@@ -1,0 +1,4 @@
+UÇQUN	is.;
+UÇQUNLU	sif.;
+UÇQUNLUQ	is.;
+UÇQUNYANAQLI	sif.;

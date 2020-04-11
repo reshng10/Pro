@@ -1,0 +1,4 @@
+VACİB	sif.;
+VACİBAT	is.;
+VACİBLİ	sif.;
+VACİBLİK	is.;

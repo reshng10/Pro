@@ -1,0 +1,13 @@
+EDİCİ	is.;
+EDİKT	is.;
+EDİL	f.;
+EDİLMİŞ	f.;
+EDİLMƏ	f.;
+EDİLMƏK	f.;
+EDİLƏ	f.;
+EDİLƏMƏ	f.;
+EDİLƏMƏK	f.;
+EDİLƏŞ	f.;
+EDİLƏŞMƏ	f_is.;
+EDİLƏŞMƏK	qars.;
+EDİŞ	is.;

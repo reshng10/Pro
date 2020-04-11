@@ -1,0 +1,13 @@
+DƏZGAH	is.;
+DƏZGAH-AY	is.;
+DƏZGAHALTI	is.;
+DƏZGAHARASI	is.;
+DƏZGAHBAŞI	is.;
+DƏZGAHLI	sif.;
+DƏZGAHLIQ	is.;
+DƏZGAHQAYIRAN	sif.;
+DƏZGAHQAYIRMA	is.;si
+DƏZGAHSAZLAYAN	is.;
+DƏZGAHVARI	sif.;
+DƏZGAHÇI	is.;
+DƏZGAHÇILIQ	is.;

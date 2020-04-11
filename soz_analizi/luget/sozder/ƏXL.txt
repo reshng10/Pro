@@ -1,0 +1,12 @@
+ƏXLAQ	is.;
+ƏXLAQLI	sif.;
+ƏXLAQLILIQ	is.;
+ƏXLAQSIZ	sif.;
+ƏXLAQSIZCA	zer.;
+ƏXLAQSIZCA(SINA)	zer.;
+ƏXLAQSIZCASINA	zer.;
+ƏXLAQSIZLIQ	is.;
+ƏXLAQİ	sif.;
+ƏXLAQİ-PSİXOLOJİ	sif.;
+ƏXLAQİ-TƏRBİYƏVİ	sif.;
+ƏXLAQİYYAT	is.;

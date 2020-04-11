@@ -1,0 +1,15 @@
+ŞƏXS	is.;
+ŞƏXSLİ	sif.;
+ŞƏXSLƏNDİR	f.;
+ŞƏXSLƏNDİRMƏ	f.;
+ŞƏXSLƏNMİŞ	f_sif.;
+ŞƏXSSİZ	sif.;
+ŞƏXSSİZLİK	is.;
+ŞƏXSİ	sif.;
+ŞƏXSİ-QƏRƏZ	is.;
+ŞƏXSİ-QƏRƏZLİK	is.;
+ŞƏXSİYYƏT	is.;
+ŞƏXSİYYƏTLƏRARASI	sif.;
+ŞƏXSİYYƏTSİZ	sif.;
+ŞƏXSİYYƏTSİZLİK	is.;
+ŞƏXSƏN	zer.;

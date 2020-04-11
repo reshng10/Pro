@@ -1,0 +1,4 @@
+ŞİPŞİRİN	sif.;
+ŞİPŞİRİNLİK	is.;
+ŞİPŞİT	sif.;
+ŞİPŞİTLİK	is.;

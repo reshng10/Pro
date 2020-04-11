@@ -1,0 +1,8 @@
+ODSAÇAN	is.;
+ODSUZ	sif.;
+ODSUZ-ALOVSUZ	sif.;
+ODSUZ-KÖZSÜZ	sif.;
+ODSUZ-OCAQSIZ	sif.;
+ODSUZLUQ	is.;
+ODSÖNDÜRÜCÜ	is.;sif.;
+ODSÖNDÜRƏN	is.;

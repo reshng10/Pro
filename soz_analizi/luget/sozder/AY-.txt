@@ -1,0 +1,5 @@
+AY-BALIQ	is.;
+AY-HAY	nida.;
+AY-ULDUZ	is.;
+AY-ULDUZLU	sif.;
+AY-İL	is.;

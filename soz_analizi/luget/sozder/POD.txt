@@ -1,0 +1,10 @@
+PODAQRA	is.;
+PODAQRALI	sif.;
+PODNOS	is.;
+PODPOLKOVNİK	is.;
+PODPOLKOVNİKLİK	is.;
+PODRAT	is.;
+PODRATÇI	is.;
+PODRATÇILIQ	is.;
+PODVAL	is.;
+PODİUM	is.;

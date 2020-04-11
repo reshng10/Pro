@@ -1,0 +1,13 @@
+SİÇAN	is.;
+SİÇAN-PİŞİK	is.;
+SİÇANABƏNZƏR	sif.;
+SİÇANABƏNZƏRLİK	is.;
+SİÇANAOXŞAR	sif.;
+SİÇANAOXŞARLIQ	is.;
+SİÇANDİŞ	sif.;
+SİÇANKİMİ	is.;
+SİÇANOTU	is.;
+SİÇANQULAĞI	is.;
+SİÇANQUYRUĞU	is.;
+SİÇOVUL	is.;
+SİÇOVULQULAĞI	is.;

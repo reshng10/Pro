@@ -1,0 +1,14 @@
+İGİD	sif.;
+İGİDBAŞI	is.;
+İGİDCƏ	zer.;
+İGİDCƏ(SİNƏ)	zer.;
+İGİDCƏSİNƏ	zer.;
+İGİDLİK	is.;
+İGİDLƏN	f.;
+İGİDLƏNMƏ	f_is.;
+İGİDLƏNMƏK	f.;
+İGİDLƏŞ	f.;
+İGİDLƏŞMƏ	f_is.;
+İGİDLƏŞMƏK	f.;
+İGİDYANA	zer.;
+İGİDÖLMÜŞ	f.;is.;sif.;

@@ -1,0 +1,14 @@
+İNİKAS	is.;
+İNİLDƏ	f.;
+İNİLDƏMƏ	f_is.;
+İNİLDƏMƏK	zer.;f.;
+İNİLDƏT	f.;
+İNİLDƏTMƏ	f_is.;
+İNİLDƏTMƏK	icb.;
+İNİLDƏŞ	f.;
+İNİLDƏŞMƏ	f_is.;
+İNİLDƏŞMƏK	qars.;
+İNİLTİ	is.;
+İNİLTİLİ	sif.;
+İNİŞİL	zer.;
+İNİŞİLKİ	sif.;

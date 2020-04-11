@@ -1,0 +1,12 @@
+VİZA	is.;
+VİZALA	f.;
+VİZALAMAQ	f.;
+VİZALAN	f.;
+VİZALANMAQ	f.;
+VİZALAT	f.;
+VİZALATMAQ	f.;
+VİZALI	sif.;
+VİZASIZ	sif.;
+VİZUAL	sif.;
+VİZİT	is.;
+VİZİTKA	is.;

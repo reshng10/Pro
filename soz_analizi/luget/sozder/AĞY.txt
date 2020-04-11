@@ -1,0 +1,12 @@
+AĞYAL	sif.;
+AĞYALLI	sif.;
+AĞYANIZ	sif.;
+AĞYANIZLIQ	is.;
+AĞYARPAQ	is.;
+AĞYARPAQLI	sif.;
+AĞYATAQ	is.;
+AĞYAĞIZ	sif.;
+AĞYAĞIZLIQ	is.;
+AĞYOL	is.;
+AĞYONCA	is.;
+AĞYUNLU	sif.;

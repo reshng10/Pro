@@ -1,0 +1,17 @@
+RÜTBƏ	is.;
+RÜTBƏLİ	sif.;
+RÜTBƏSİZ	sif.;
+RÜTBƏSİZLİK	is.;
+RÜTUBƏT	is.;
+RÜTUBƏTKEÇİRMƏKLİK	is.;
+RÜTUBƏTLİ	sif.;
+RÜTUBƏTLİLİK	is.;
+RÜTUBƏTLƏN	f.;
+RÜTUBƏTLƏNMƏ	f.;
+RÜTUBƏTLƏNMƏK	f.;
+RÜTUBƏTSİZ	sif.;
+RÜTUBƏTSİZLİK	is.;
+RÜTUBƏTUDAN	is.;
+RÜTUBƏTVERƏN	is.;
+RÜTUBƏTÖLÇƏN	is.;
+RÜTUBƏTƏDAVAMLI	sif.;

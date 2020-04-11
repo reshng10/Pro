@@ -1,0 +1,5 @@
+XOY	is.;
+XOYLANDIRMA	f_is.;
+XOYLANDIRMAQ	f.;
+XOYLANMA	f_is.;
+XOYLANMAQ	f.;

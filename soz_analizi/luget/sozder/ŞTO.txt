@@ -1,0 +1,3 @@
+ŞTOF	is.;
+ŞTOK	is.;
+ŞTOPOR	is.;

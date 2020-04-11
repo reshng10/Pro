@@ -1,0 +1,5 @@
+GUVULDA	f.;
+GUVULDAMA	f_is.;
+GUVULDAMAQ	f.;
+GUVULDAT	f.;
+GUVULTU	is.;

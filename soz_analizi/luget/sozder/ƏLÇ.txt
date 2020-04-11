@@ -1,0 +1,5 @@
+ƏLÇATAN	sif.;
+ƏLÇATMAYAN	f_sif.;
+ƏLÇATMAZ	sif.;
+ƏLÇATMAZLIQ	is.;
+ƏLÇİM	is.;

@@ -1,0 +1,11 @@
+VAĞ	is.;
+VAĞAM	sif.;
+VAĞAMLAMAQ	f.;
+VAĞANIMAQ	f.;
+VAĞANIMIŞ	f_sif.;
+VAĞZAL	is.;
+VAĞZALALTI	sif.;
+VAĞZALI	is.;
+VAĞZALQABAĞI	sif.;
+VAĞZALYANI	sif.;
+VAĞZALƏTRAFI	sif.;

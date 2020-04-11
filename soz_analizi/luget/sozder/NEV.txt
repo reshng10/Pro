@@ -1,0 +1,12 @@
+NEVRALGİYA	is.;
+NEVROLOGİYA	is.;
+NEVROLOJİ	sif.;
+NEVROLOQ	is.;
+NEVROMA	is.;
+NEVROPAT	is.;
+NEVROPATOLOJİ	sif.;
+NEVROPATOLOQ	is.;
+NEVROTİK	sif.;
+NEVROZ	sif.;
+NEVROZLU	sif.;
+NEVRİT	is.;

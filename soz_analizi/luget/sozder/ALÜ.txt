@@ -1,0 +1,9 @@
+ALÜMOPLAST	is.;
+ALÜMOSİLİKAT	is.;
+ALÜMOTOL	is.;
+ALÜMİN	is.;
+ALÜMİNOTERMİYA	is.;
+ALÜMİNÇİ	is.;
+ALÜMİNİUM	is.;
+ALÜMİNİUMLU	sif.;
+ALÜMİNİUMÇU	is.;

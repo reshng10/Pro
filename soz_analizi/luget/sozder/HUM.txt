@@ -1,0 +1,6 @@
+HUMANİST	f.;
+HUMANİSTCƏ	zer.;
+HUMANİSTCƏSİNƏ	sif.;
+HUMANİSTLİK	is.;
+HUMANİSTLƏŞDİR	f.;
+HUMANİTAR	sif.;

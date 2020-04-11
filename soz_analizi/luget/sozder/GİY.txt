@@ -1,0 +1,7 @@
+GİYAH	is.;
+GİYOV	is.;
+GİYOVLUQ	is.;
+GİYİD	is.;
+GİYİŞ	is.;
+GİYİŞMƏ	f_is.;
+GİYİŞMƏK	f.;

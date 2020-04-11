@@ -1,0 +1,2 @@
+GİDİ	sif.;
+GİDİ-GİDİ	zer.;

@@ -1,0 +1,14 @@
+CİYİL	top.;
+CİYİLLİK	is.;
+CİYƏ	is.;
+CİYƏN	is.;
+CİYƏR	is.;
+CİYƏR-BÖYRƏK	is.;
+CİYƏRGUŞƏ	is.;
+CİYƏRLİ	sif.;
+CİYƏRLİLİK	is.;
+CİYƏROTU	is.;
+CİYƏRPARƏ	is.;
+CİYƏRSUZ	sif.;
+CİYƏRSİZ	sif.;
+CİYƏRİYANMIŞ	is.;sif.;

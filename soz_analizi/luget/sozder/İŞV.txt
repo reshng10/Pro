@@ -1,0 +1,9 @@
+İŞVERƏN	is.;
+İŞVƏ	is.;
+İŞVƏBAZ	sif.;
+İŞVƏBAZLIQ	is.;
+İŞVƏKAR	sif.;
+İŞVƏKARANƏ	zer.;
+İŞVƏKARLIQ	is.;
+İŞVƏLİ	sif.;
+İŞVƏLİLİK	is.;

@@ -1,0 +1,17 @@
+ZOL	f.;is.;sif.;
+ZOL	zer.;
+ZOL-ZOL	sif.;
+ZOL-ZOL	zer.;
+ZOLA	is.;
+ZOLAQ	is.;
+ZOLAQ-ZOLAQ	sif.;
+ZOLAQARASI	sif.;
+ZOLAQLI	sif.;
+ZOLAQLILIQ	is.;
+ZOLAQVARI	sif.;
+ZOLAQVARILIQ	is.;
+ZOLLAMA	f_is.;
+ZOLLANMA	f_is.;
+ZOLLANMAQ	mech.;
+ZOLLATMA	f_is.;
+ZOLOTNİK	is.;

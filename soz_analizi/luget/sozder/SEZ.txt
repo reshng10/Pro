@@ -1,0 +1,10 @@
+SEZ	f.;
+SEZARİZM	is.;
+SEZDİR	f.;
+SEZDİRMƏ	f_is.;
+SEZDİRMƏK	f.;
+SEZMƏ	f_is.;
+SEZMƏK	f.;
+SEZİL	f.;
+SEZİLMƏ	f_is.;
+SEZİLMƏK	f.;sif.;

@@ -1,0 +1,17 @@
+NOM	is.;
+NOMA	is.;
+NOMADİZM	is.;
+NOMARX	is.;
+NOMEN	is.;
+NOMENKLATUR	is.;
+NOMENKLATUR-ÜNVAN	is.;
+NOMENKLATURA	is.;
+NOMOGENEZ	is.;
+NOMOQRAFİYA	is.;
+NOMOQRAM	is.;
+NOMİNAL	is.;
+NOMİNALLIQ	is.;
+NOMİNALİST	is.;
+NOMİNALİZM	is.;
+NOMİNASİYA	is.;
+NOMİNATİV	sif.;

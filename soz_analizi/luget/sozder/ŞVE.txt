@@ -1,0 +1,3 @@
+ŞVELLER	is.;
+ŞVELLERDOĞRAYAN	is.;
+ŞVERTBOT	is.;

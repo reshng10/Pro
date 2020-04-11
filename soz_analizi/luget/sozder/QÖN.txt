@@ -1,0 +1,10 @@
+QÖNÇƏ	is.;
+QÖNÇƏCİK	is.;
+QÖNÇƏDODAQ	sif.;
+QÖNÇƏDODAQ(LI)	sif.;
+QÖNÇƏDƏHAN	sif.;
+QÖNÇƏLİ	sif.;
+QÖNÇƏLİK	is.;
+QÖNÇƏLƏB	sif.;
+QÖNÇƏLƏNMƏ	f.;
+QÖNÇƏLƏNMƏK	f.;

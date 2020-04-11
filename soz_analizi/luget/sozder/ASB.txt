@@ -1,0 +1,4 @@
+ASBEST	is.;
+ASBEST-BETON	is.;
+ASBEST-SEMENT	is.;
+ASBESTİT	is.;

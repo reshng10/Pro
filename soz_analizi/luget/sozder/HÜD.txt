@@ -1,0 +1,13 @@
+HÜD-HÜD	is.;
+HÜDUD	ed.;is.;
+HÜDUDDAŞ	is.;
+HÜDUDLA	f.;
+HÜDUDLAMA	f_is.;
+HÜDUDLAMAQ	f.;
+HÜDUDLAN	f.;
+HÜDUDLANDIR	f.;
+HÜDUDLANDIRIL	f.;
+HÜDUDLU	sif.;
+HÜDUDLULUQ	is.;
+HÜDUDSUZ	sif.;
+HÜDUDSUZLUQ	is.;

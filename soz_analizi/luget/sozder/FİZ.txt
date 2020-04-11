@@ -1,0 +1,12 @@
+FİZİKA-RİYAZİYYAT	is.;
+FİZİKAŞÜNAS	is.;
+FİZİKAŞÜNASLIQ	is.;
+FİZİKİ	sif.;
+FİZİKİ-COĞRAFİ	sif.;
+FİZİKİ-KİMYƏVİ	sif.;
+FİZİKİ-RİYAZİ	sif.;
+FİZİKİ-TEXNİKİ	sif.;
+FİZİOKRATİK	sif.;
+FİZİOLOJİ	sif.;
+FİZİONOMİST	is.;
+FİZİOTERAPEVTİK	sif.;

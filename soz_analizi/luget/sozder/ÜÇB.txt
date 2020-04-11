@@ -1,0 +1,10 @@
+ÜÇBARMAQLI	sif.;
+ÜÇBAŞLI	sif.;
+ÜÇBOĞAZ	sif.;
+ÜÇBUCAQ	is.;
+ÜÇBUCAQ(LI)	is.;sif.;
+ÜÇBUCAQLI	sif.;
+ÜÇBUDAQ	is.;
+ÜÇBÖLMƏLİ	sif.;
+ÜÇBİR	zer.;
+ÜÇBƏNDLİ	sif.;

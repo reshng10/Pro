@@ -1,0 +1,16 @@
+HÜCEYRƏ	is.;
+HÜCEYRƏARASI	sif.;
+HÜCEYRƏDAXİLİ	sif.;
+HÜCEYRƏLİ	sif.;
+HÜCEYRƏLƏRARASI	sif.;
+HÜCEYRƏƏTRAFI	sif.;
+HÜCRƏ	is.;
+HÜCRƏNİŞİN	is.;
+HÜCUM	is.;
+HÜCUMAKEÇMƏ	is.;
+HÜCUMAVƏR	sif.;
+HÜCUMETMƏ	is.;
+HÜCUMLU	sif.;
+HÜCUMQABAĞI	sif.;
+HÜCUMÇU	f.;is.;sif.;
+HÜCUMÇULUQ	is.;

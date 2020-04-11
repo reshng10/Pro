@@ -1,0 +1,11 @@
+İSBAT	is.;
+İSBATEDİLMƏZ	sif.;
+İSBATEDİLMƏZLİK	is.;
+İSBATLA	f.;
+İSBATLI	sif.;
+İSBATLILIQ	is.;
+İSBATSIZ	sif.;
+İSBATSIZLIQ	is.;
+İSBATİ-VÜCUD	is.;
+İSBİRƏ	is.;
+İSBİRƏLİ	sif.;

@@ -1,0 +1,15 @@
+LEGMON	is.;
+LEGMONÇU	is.;
+LEGİON	is.;
+LEGİONER	is.;
+LEGİONÇU	is.;
+LEGİONÇU	is.;
+LEGİRLƏMƏ	f.;
+LEGİRLƏNMİŞ	f_sif.;
+LEGİRLƏYİCİ	is.;
+LEGİSLATURA	is.;
+LEGİST	is.;
+LEGİTİM	is.;
+LEGİTİMASİYA	is.;
+LEGİTİMİST	is.;
+LEGİTİMİZM	is.;

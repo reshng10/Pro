@@ -1,0 +1,4 @@
+AZCA	say.;zer.;
+AZCA-AZCA	zer.;
+AZCANA	sif.;zer.;
+AZCİNSLƏŞDİRİLMİŞ	sif.;

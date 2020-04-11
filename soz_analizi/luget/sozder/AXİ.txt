@@ -1,0 +1,6 @@
+AXİMİYA	is.;
+AXİRƏT	is.;
+AXİRƏTLİK	is.;
+AXİRƏTPƏRƏST	sif.;
+AXİRƏTPƏRƏSTLİK	is.;
+AXİRƏTSİZ	sif.;

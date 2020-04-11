@@ -1,0 +1,4 @@
+VİLAYƏT	is.;
+VİLAYƏTLƏRARASI	sif.;
+VİLAYƏTİ	is.;
+VİLLA	is.;

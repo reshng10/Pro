@@ -1,0 +1,12 @@
+QUS	f.;
+QUSAN	f_sif.;
+QUSAR	is.;
+QUSDUR	f.;
+QUSDURMA	is.;si
+QUSDURMAOTU	is.;
+QUSDURMAQ	f.;
+QUSDURUCU	sif.;
+QUSDURUCULUQ	is.;
+QUSLİ	is.;
+QUSMAQ	f.;
+QUSUNTU	is.;

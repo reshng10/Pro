@@ -1,0 +1,12 @@
+FƏAL	sif.; zer.;
+FƏALLAŞ	f.;
+FƏALLAŞDIR	f.;
+FƏALLAŞDIRIL	f.;
+FƏALLAŞDIRMAQ	f.;
+FƏALLAŞMAQ	f.;
+FƏALLIQ	is.;
+FƏALİYYƏT	is.;
+FƏALİYYƏTLİ	sif.;
+FƏALİYYƏTLİLİK	is.;
+FƏALİYYƏTSİZ	zer.;sif.;
+FƏALİYYƏTSİZLİK	is.;

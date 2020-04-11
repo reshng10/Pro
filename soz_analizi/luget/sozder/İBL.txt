@@ -1,0 +1,10 @@
+İBLİS	is.;
+İBLİSANƏ	sif.;zer.;
+İBLİSCƏSİNƏ	sif.;zer.;
+İBLİSKİMİ	zer.;
+İBLİSLİK	is.;
+İBLİSLƏŞ	f.;
+İBLİSLƏŞMƏ	f_is.;
+İBLİSLƏŞMƏK	f.;
+İBLİSVARI	zer.;
+İBLİSVARİ	zer.;

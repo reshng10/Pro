@@ -1,0 +1,13 @@
+ENİM	is.;
+ENİNƏ	zer.;
+ENİNƏ-BOYUNA	zer.;
+ENİNƏ-UZUNUNA	zer.;
+ENİŞ	is.;
+ENİŞ-YOXUŞ	f.;
+ENİŞ-YOXUŞLU	sif.;
+ENİŞAŞAĞI	zer.;
+ENİŞLİ	sif.;
+ENİŞLİ-YOXUŞLU	sif.;
+ENİŞLİK	is.;
+ENİŞQABAĞI	is.;
+ENİŞSİZ	sif.;

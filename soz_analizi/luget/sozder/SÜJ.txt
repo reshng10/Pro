@@ -1,0 +1,5 @@
+SÜJET	is.;
+SÜJETLİ	sif.;
+SÜJETLİLİK	is.;
+SÜJETSİZ	sif.;
+SÜJETSİZLİK	is.;

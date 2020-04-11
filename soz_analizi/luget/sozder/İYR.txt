@@ -1,0 +1,11 @@
+İYRƏN	f.;
+İYRƏNC	sif.;
+İYRƏNCLİK	is.;
+İYRƏNDİR	f.;
+İYRƏNDİRMƏ	f.is.;
+İYRƏNDİRMƏK	f.;
+İYRƏNDİRİL	f.;
+İYRƏNDİRİLMƏ	f.;
+İYRƏNMƏ	f.is.;
+İYRƏNMƏK	f.;
+İYRƏNƏN	f_sif.;

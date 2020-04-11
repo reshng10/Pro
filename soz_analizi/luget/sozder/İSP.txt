@@ -1,0 +1,5 @@
+İSPAN	is.;
+İSPANAQ	is.;
+İSPANAQLI	sif.;
+İSPANCA	sif.;zer.;
+İSPANİYALI	is.;

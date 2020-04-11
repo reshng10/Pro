@@ -1,0 +1,9 @@
+DASTAN	is.;
+DASTAN-TAMAŞA	is.;
+DASTANÇI	is.;
+DASTANÇILIQ	is.;
+DASTANŞÜNAS	is.;
+DASTANŞÜNASLIQ	is.;
+DASTİLOSKOPİK	sif.;
+DASTİLOSKOPİYA	is.;
+DASİT	is.;

@@ -1,0 +1,9 @@
+QIT	sif.;
+QIT-QIT	teq.;
+QITIQOTU	is.;
+QITLAŞ	f.;
+QITLAŞDIR	f.;
+QITLAŞDIRIL	f.;
+QITLAŞDIRMAQ	f.;
+QITLAŞMAQ	f.;
+QITLIQ	is.;

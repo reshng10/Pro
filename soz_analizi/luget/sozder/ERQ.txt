@@ -1,0 +1,4 @@
+ERQATİV	sif.;
+ERQONİM	is.;
+ERQONİMİKA	is.;
+ERQOTİZM	is.;

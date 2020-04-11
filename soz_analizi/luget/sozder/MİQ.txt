@@ -1,0 +1,11 @@
+MİQDAR	is.;
+MİQDARCA	zer.;
+MİQDARSIZ	sif.;
+MİQDARSIZLIQ	is.;
+MİQDARİ	sif.;
+MİQMATİT	is.;
+MİQNATİS	is.;
+MİQRASİYA	is.;
+MİQREN	is.;
+MİQYAS	is.;
+MİQYASLI	sif.;

@@ -1,0 +1,5 @@
+ATDIR	f.;
+ATDIRIL	f.;
+ATDIRILMAQ	f.;
+ATDIRMAQ	f.;
+ATDÖŞÜ	is.;

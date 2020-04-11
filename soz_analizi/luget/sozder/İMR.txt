@@ -1,0 +1,14 @@
+İMRİK	is.;
+İMRİKLƏ	f.;
+İMRİKLƏMƏ	f_is.;
+İMRİKLƏMƏK	f.;
+İMRİKLƏT	f.;
+İMRİKLƏTDİR	f.;
+İMRİKLƏTDİRMƏ	f.;
+İMRİKLƏTMƏ	f.;
+İMRƏN	f.;
+İMRƏNDİR	f.;
+İMRƏNDİRMƏ	f_is.;
+İMRƏNDİRMƏK	f.;
+İMRƏNMƏ	f_is.;
+İMRƏNMƏK	f.;

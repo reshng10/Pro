@@ -1,0 +1,16 @@
+ÜÇTAKTLI	sif.;
+ÜÇTARLALI	sif.;
+ÜÇTARLALIQ	is.;
+ÜÇTAYLI	sif.;
+ÜÇTELLİ	sif.;
+ÜÇTONLUQ	sif.;
+ÜÇTORLU	sif.;
+ÜÇTİLLİ	sif.;
+ÜÇTİNLİ	sif.;
+ÜÇTİRLİ	sif.;
+ÜÇTƏBƏQƏLİ	sif.;
+ÜÇTƏKƏRLİ	sif.;
+ÜÇTƏPƏ	sif.;
+ÜÇTƏPƏLİ	sif.;
+ÜÇTƏRKİBLİ	sif.;
+ÜÇTƏRƏFLİ	sif.;

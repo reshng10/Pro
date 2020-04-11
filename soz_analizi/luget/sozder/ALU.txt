@@ -1,0 +1,9 @@
+ALU	is.;
+ALUDƏ	sif.;
+ALUDƏLİK	is.;
+ALUDƏLİKLƏ	zer.;
+ALUDƏÇİLİK	is.;
+ALUNİT	is.;
+ALUNİTLƏŞ	f.;
+ALUNİTLƏŞMƏ	f.;
+ALUNİTÇİ	is.;

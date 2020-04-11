@@ -1,0 +1,8 @@
+COD	sif.;
+CODLAN	f.;
+CODLANMAQ	f.;
+CODLAŞ	f.;
+CODLAŞMAQ	f.;
+CODLUQ	is.;
+CODTÜKLÜ	sif.;
+CODYUNLU	sif.;

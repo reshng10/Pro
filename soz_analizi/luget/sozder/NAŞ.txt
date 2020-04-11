@@ -1,0 +1,15 @@
+NAŞAD	sif.;
+NAŞADLIQ	is.;
+NAŞATIR	is.;
+NAŞATIR-CİRƏ	is.;
+NAŞATIRLI	sif.;
+NAŞAYİSTƏLİK	is.;
+NAŞI	sif.;
+NAŞILA	f.;
+NAŞILAŞ	f.;
+NAŞILIQ	is.;
+NAŞÜKÜR	sif.;
+NAŞÜKÜRLÜK	is.;
+NAŞİR	is.;
+NAŞİRLİK	is.;
+NAŞİRİ-ƏFKAR	is.;

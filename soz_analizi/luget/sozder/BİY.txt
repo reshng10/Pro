@@ -1,0 +1,8 @@
+BİYABAN	is.;
+BİYABANGƏRD	sif.;
+BİYABANLIQ	is.;
+BİYAN	is.;
+BİYANLIQ	is.;
+BİYAR	is.;
+BİYARLIQ	sif.;
+BİYURKASİYA	is.;

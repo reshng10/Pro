@@ -1,0 +1,3 @@
+ATBALAXANIM	is.;
+ATBAZ	is.;
+ATBAZLIQ	is.;

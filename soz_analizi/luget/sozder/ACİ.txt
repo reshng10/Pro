@@ -1,0 +1,16 @@
+ACİZ	sif.;
+ACİZ-ACİZ	sif.;
+ACİZ-AVARA	sif.;
+ACİZ-ZAVALLI	sif.;
+ACİZANƏ	zer.;
+ACİZCƏ	zer.;
+ACİZCƏSİNƏ	zer.;
+ACİZLİK	is.;
+ACİZLƏN	zer.;
+ACİZLƏNMƏ	f.;
+ACİZLƏŞ	f.;
+ACİZLƏŞDİR	f.;
+ACİZLƏŞDİRMƏ	f.;
+ACİZLƏŞDİRMƏK	f.;
+ACİZLƏŞMƏ	f.;
+ACİZLƏŞMƏK	f.;

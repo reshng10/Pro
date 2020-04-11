@@ -1,0 +1,4 @@
+AGENT	is.;
+AGENT-BANK	is.;
+AGENTLİK	is.;
+AGENTURA	is.;

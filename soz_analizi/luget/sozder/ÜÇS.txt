@@ -1,0 +1,7 @@
+ÜÇSAATLIQ	sif.;
+ÜÇSIRALI	sif.;
+ÜÇSÜTUNLU	sif.;
+ÜÇSİMLİ	sif.;
+ÜÇSİNİFLİ	sif.;
+ÜÇSƏSLİ	sif.;
+ÜÇSƏVİYYƏLİ	sif.;

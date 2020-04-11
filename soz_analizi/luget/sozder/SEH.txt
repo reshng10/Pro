@@ -1,0 +1,14 @@
+SEHR	is.;
+SEHR-CADU	is.;
+SEHRBAZ	is.;
+SEHRBAZLIQ	is.;
+SEHRKAR	sif.;
+SEHRKARLIQ	is.;
+SEHRLİ	sif.;
+SEHRLƏ	f.;
+SEHRLƏMƏ	f_is.;
+SEHRLƏMƏK	f.;
+SEHRLƏN	f.;
+SEHRLƏNDİRİCİ	sif.;
+SEHRLƏNMƏ	f_is.;
+SEHRLƏNMƏK	mech.;

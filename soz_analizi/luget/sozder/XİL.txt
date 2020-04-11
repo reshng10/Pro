@@ -1,0 +1,17 @@
+XİLAF	is.;
+XİLAFKAR	sif.;
+XİLAFKARLIQ	is.;
+XİLAFİ-ADƏT	is.;
+XİLAFİ-QANUN	is.;
+XİLAFİ-SİYASƏT	is.;
+XİLAFƏT	is.;
+XİLAFƏTÇİ	is.;
+XİLAS	is.;
+XİLASEDİCİ	sif.;
+XİLASEDİCİLİK	is.;
+XİLASETMƏ	sif.;
+XİLASKAR	sif.;
+XİLASKARLIQ	is.;
+XİLLƏ	is.;
+XİLQƏT	is.;
+XİLQƏTLİ	sif.;

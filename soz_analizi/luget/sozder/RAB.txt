@@ -1,0 +1,10 @@
+RABİTƏ	is.;
+RABİTƏLİ	sif.;zer.;
+RABİTƏLİLİK	is.;
+RABİTƏLƏNDİR	f.;
+RABİTƏLƏNDİRMƏ	f_is.;
+RABİTƏLƏNDİRMƏK	f.;
+RABİTƏSİZ	sif.;
+RABİTƏSİZLİK	is.;
+RABİTƏÇİ	f.;is.;
+RABİTƏÇİLİK	is.;

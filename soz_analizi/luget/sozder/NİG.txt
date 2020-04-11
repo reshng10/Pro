@@ -1,0 +1,9 @@
+NİGAH	is.;
+NİGAHBAN	is.;
+NİGAHBANLIQ	is.;
+NİGAHDAR	sif.;
+NİGAHNAMƏ	is.;
+NİGAR	is.;
+NİGARAN	sif.;zer.;
+NİGARANLIQ	is.;
+NİGARANÇILIQ	is.;

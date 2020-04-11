@@ -1,0 +1,14 @@
+ŞAŞDIRMA	f_is.;
+ŞAŞDIRMAQ	f.;
+ŞAŞIRMA	f_is.;
+ŞAŞIRMAQ	f.;
+ŞAŞIRTMA	f_is.;
+ŞAŞIRTMAQ	f.;
+ŞAŞKALI	sif.;
+ŞAŞMA	f_is.;
+ŞAŞMAQ	f.;
+ŞAŞQIN	f.;is.;sif.;
+ŞAŞQINCA	zer.;
+ŞAŞQINLAŞMA	f_is.;
+ŞAŞQINLAŞMAQ	f.;
+ŞAŞQINLIQ	is.;

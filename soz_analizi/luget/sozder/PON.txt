@@ -1,0 +1,9 @@
+PONDEROMOTOR	is.;
+PONTON	is.;
+PONTONÇU	is.;
+PONZA	is.;
+PONZABIĞ	sif.;
+PONZABIĞLI	sif.;
+PONÇO	is.;
+PONÇİK	is.;
+PONİ	is.;

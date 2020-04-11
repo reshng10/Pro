@@ -1,0 +1,17 @@
+XÜSUSİ	sif.;
+XÜSUSİ-TEMATİK	sif.;
+XÜSUSİLİK	is.;
+XÜSUSİLƏ	zer.;
+XÜSUSİLƏŞ	f.;
+XÜSUSİLƏŞDİR	f.;
+XÜSUSİLƏŞDİRMƏ	f.;
+XÜSUSİLƏŞDİRİL	f.;
+XÜSUSİLƏŞDİRİLMİŞ	f.;
+XÜSUSİLƏŞDİRİLMƏ	f.;
+XÜSUSİLƏŞMİŞ	f_sif.;
+XÜSUSİLƏŞMƏ	f.;is.;
+XÜSUSİLƏŞMƏK	f.;
+XÜSUSİYYƏT	is.;
+XÜSUSİYYƏTÇİ	is.;
+XÜSUSİYYƏTÇİLİK	is.;
+XÜSUSƏN	zer.;

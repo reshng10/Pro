@@ -1,0 +1,17 @@
+İRTMƏK	is.;
+İRTMƏKLƏ	f.;
+İRTMƏKLƏMƏ	f_is.;
+İRTMƏKLƏMƏK	f.;
+İRTİBAT	is.;
+İRTİBATSIZ	sif.;
+İRTİBATÇI	is.;
+İRTİCA	is.;
+İRTİCAL	is.;
+İRTİCALƏN	zer.;
+İRTİCAPƏRƏST	is.;
+İRTİCAPƏRƏSTLİK	is.;
+İRTİCAÇI	is.;
+İRTİCAÇILIQ	is.;
+İRTİFA	is.;
+İRTİHAL	is.;
+İRTİKAB	is.;

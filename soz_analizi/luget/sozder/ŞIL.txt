@@ -1,0 +1,14 @@
+ŞILLAQ	is.;
+ŞILLAQATAN	f_sif.;
+ŞILLAQLA	f.;
+ŞILLAQLAMA	is.;
+ŞILLAQLAMAQ	f.;
+ŞILLAQLAŞMA	is.;
+ŞILLAQLAŞMAQ	f.;
+ŞILLAQÇI	is.;
+ŞILTAQ	sif.;
+ŞILTAQCIL	sif.;
+ŞILTAQCIQ	is.;
+ŞILTAQLIQ	is.;
+ŞILTAQÇI	sif.;
+ŞILTAQÇILIQ	is.;

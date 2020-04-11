@@ -1,0 +1,5 @@
+FAM	is.;
+FAMİLDAŞ	is.;
+FAMİLİYA	is.;
+FAMİLİYALI	sif.;
+FAMİLİYASIZ	sif.;

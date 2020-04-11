@@ -1,0 +1,12 @@
+ÖTƏ	sif.;
+ÖTƏ	zer.;
+ÖTƏ-BƏRİ	zer.;
+ÖTƏDƏKİ	sif.;
+ÖTƏKİ	sif.;
+ÖTƏN	sif.;zer.;
+ÖTƏN-KEÇƏN	f_sif.;
+ÖTƏRGİ	is.;
+ÖTƏRİ	qo.;
+ÖTƏRİ	sif.;zer.;
+ÖTƏRİCƏ	zer.;
+ÖTƏRİLİK	is.;

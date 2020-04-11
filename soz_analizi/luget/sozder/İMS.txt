@@ -1,0 +1,7 @@
+İMSİK	sif.;
+İMSİLƏ	f.;
+İMSİLƏMƏ	f_is.;
+İMSİLƏMƏK	f.;
+İMSİLƏN	f.;
+İMSİLƏNMƏ	f_is.;
+İMSİLƏNMƏK	f.;

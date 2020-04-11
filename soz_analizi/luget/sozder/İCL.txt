@@ -1,0 +1,7 @@
+İCLAS	is.;
+İCLASARASI	sif.;
+İCLASBAZ	is.;
+İCLASBAZLIQ	is.;
+İCLASLARARASI	sif.;
+İCLASÇI	is.;
+İCLASÇILIQ	is.;

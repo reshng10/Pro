@@ -1,0 +1,12 @@
+ATELEKTAZ	is.;
+ATELYE	is.;
+ATEMOLOGİYA	is.;
+ATEROMA	is.;
+ATEROMATOZ	is.;
+ATEROSKLEROZ	is.;
+ATEİST	is.;
+ATEİSTCƏSİNƏ	zer.;
+ATEİSTLİK	sif.;
+ATEİSTLƏŞDİR	f.;
+ATEİSTLƏŞDİRİCİ	sif.;
+ATEİZM	is.;

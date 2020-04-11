@@ -1,0 +1,12 @@
+ÖMÜR	is.;
+ÖMÜR-GÜN	is.;
+ÖMÜR-GÜNLÜK	sif.;
+ÖMÜRBİLLAH	zer.;
+ÖMÜRBƏÖMÜR	zer.;
+ÖMÜRLÜ	sif.;
+ÖMÜRLÜK	sif.;
+ÖMÜRLÜKCƏ	zer.;
+ÖMÜRLÜLÜK	is.;
+ÖMÜRSÜZ	sif.;
+ÖMÜRSÜZLÜK	is.;
+ÖMÜRUZADICI	sif.;

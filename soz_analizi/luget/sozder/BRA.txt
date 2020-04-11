@@ -1,0 +1,17 @@
+BRA	is.;
+BRAHMİ	is.;
+BRAHUİ	is.;
+BRAK	sif.;
+BRAKONYER	is.;
+BRAKONYERLİK	is.;
+BRAKÇI	is.;
+BRAMİN	is.;
+BRANDER	is.;
+BRANDMAUER	is.;
+BRANDSPOYT	is.;
+BRASS	is.;
+BRAULYOZ	is.;
+BRAXİANTİKLİNAL	is.;
+BRAXİSTRON	is.;
+BRAXİSİNKLİNAL	is.;
+BRAZİLİYALI	sif.;

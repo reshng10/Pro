@@ -1,0 +1,9 @@
+SİDQ	is.;
+SİDR	is.;
+SİDİK	is.;
+SİDİK-CİNSİYYƏT	is.;
+SİDİKDAŞIYAN	f_sif.;
+SİDİKGƏTİRƏN	f_sif.;
+SİDİKLİ	sif.;
+SİDİKLİK	is.;
+SİDİKQOVUCU	sif.;

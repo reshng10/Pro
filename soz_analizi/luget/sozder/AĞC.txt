@@ -1,0 +1,15 @@
+AĞCA	is.;
+AĞCALI	sif.;
+AĞCALIQ	is.;
+AĞCAMATAN	sif.;
+AĞCAMAYA	is.;
+AĞCAQANAD	is.;
+AĞCAQAYIN	is.;
+AĞCAQAYINLIQ	is.;
+AĞCAQOVAQ	is.;
+AĞCAQOVAQLIQ	is.;
+AĞCASIZ	sif.;
+AĞCAVAZ(A)	sif.;
+AĞCİYƏR	sif.;
+AĞCİYƏR-MƏDƏ	is.;
+AĞCİYƏRLİK	is.;

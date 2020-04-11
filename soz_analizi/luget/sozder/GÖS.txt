@@ -1,0 +1,10 @@
+GÖSTƏR	f.;
+GÖSTƏRMƏ	f_is.;
+GÖSTƏRMƏK	f.;
+GÖSTƏRİCİ	is.;
+GÖSTƏRİL	f.;
+GÖSTƏRİLMƏ	f_is.;
+GÖSTƏRİLMƏK	mech.;
+GÖSTƏRİLİŞ	is.;
+GÖSTƏRİŞ	is.;
+GÖSTƏRƏN	is.;

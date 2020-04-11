@@ -1,0 +1,12 @@
+ÜSUL	is.;
+ÜSULCA	zer.;
+ÜSULLU	sif.;
+ÜSULLUCA	zer.;
+ÜSULLULUQ	is.;
+ÜSULSUZ	sif.;
+ÜSULSUZLUQ	is.;
+ÜSULU	is.;
+ÜSULİ-CƏDİD	is.;
+ÜSULİ-DİN	is.;
+ÜSULİ-İDARƏ	is.;
+ÜSULİ-ƏTİQ	is.;

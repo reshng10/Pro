@@ -1,0 +1,12 @@
+RÜSUM	is.;
+RÜSUM	is.;
+RÜSUMAT	is.;
+RÜSUMLU	sif.;
+RÜSVA(Y)	is.;
+RÜSVA(Y)LIQ	is.;
+RÜSVAY	sif.;
+RÜSVAYEDİCİ	sif.;
+RÜSVAYLIQ	is.;
+RÜSVAYÇI	sif.;
+RÜSVAYÇILIQ	is.;
+RÜSXƏTNAMƏ	is.;

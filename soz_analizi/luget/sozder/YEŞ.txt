@@ -1,0 +1,8 @@
+YEŞİK	is.;
+YEŞİKDAŞIYAN	sif.;
+YEŞİKLİ	sif.;
+YEŞİKLİK	sif.;
+YEŞİKSİZ	sif.;
+YEŞİKVURAN	is.;
+YEŞİKÇİ	is.;
+YEŞİKÇİLİK	is.;

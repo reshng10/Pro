@@ -1,0 +1,12 @@
+HİYLƏ	is.;
+HİYLƏ-MƏKR	is.;
+HİYLƏBAZ	sif.;
+HİYLƏBAZCASINA	zer.;
+HİYLƏBAZLIQ	is.;
+HİYLƏGƏR	sif.;
+HİYLƏGƏRCƏ	zer.;
+HİYLƏGƏRCƏSİNƏ	zer.;
+HİYLƏGƏRLİK	is.;
+HİYLƏLİ	sif.;
+HİYLƏSİZ	sif.;zer.;
+HİYLƏSİZLİK	is.;

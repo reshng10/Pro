@@ -1,0 +1,14 @@
+ÜÇDAYAQLI	sif.;
+ÜÇDORLU	sif.;
+ÜÇDÜYMƏ	sif.;
+ÜÇDÜYMƏ(Lİ)	sif.;
+ÜÇDÜYMƏLİ	sif.;
+ÜÇDİLLİ	sif.;
+ÜÇDİLLİLİK	is.;
+ÜÇDİLİMLİ	sif.;
+ÜÇDİRSƏKLİ	sif.;
+ÜÇDİYİRCƏKLİ	sif.;
+ÜÇDİŞ	sif.;
+ÜÇDİŞLİ	sif.;
+ÜÇDƏBİR	zer.;
+ÜÇDƏFƏLİK	sif.;

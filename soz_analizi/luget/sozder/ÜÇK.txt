@@ -1,0 +1,9 @@
+ÜÇKAMERALI	sif.;
+ÜÇKOMPONENTLİ	sif.;
+ÜÇKUBLUQ	sif.;
+ÜÇKÜNC	sif.;
+ÜÇKÜNC(LÜ)	sif.;
+ÜÇKÜNCLÜ	sif.;
+ÜÇKİLOLUQ	sif.;
+ÜÇKİLOMETRLİK	sif.;
+ÜÇKƏSİKLİ	sif.;

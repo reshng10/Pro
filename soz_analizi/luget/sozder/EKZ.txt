@@ -1,0 +1,9 @@
+EKZEMALI	sif.;
+EKZOBİOLOGİYA	is.;
+EKZOGEN	sif.;
+EKZOT	is.;
+EKZOTERMİK	sif.;
+EKZOTİK	sif.;
+EKZOTİKA	is.;
+EKZİSTENSİALİST	is.;
+EKZİSTENSİALİZM	is.;

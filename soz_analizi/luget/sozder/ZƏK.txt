@@ -1,0 +1,11 @@
+ZƏKA	is.;
+ZƏKALI	sif.;
+ZƏKALILIQ	is.;
+ZƏKASIZ	sif.;
+ZƏKASIZLIQ	is.;
+ZƏKAT	is.;
+ZƏKAVƏT	is.;
+ZƏKAVƏTLİ	sif.;
+ZƏKAVƏTLİLİK	is.;
+ZƏKİ	sif.;
+ZƏKİLİK	is.;

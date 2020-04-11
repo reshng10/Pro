@@ -1,0 +1,6 @@
+MAİL	sif.;
+MAİLLİK	is.;
+MAİLLİKÖLÇƏN	is.;
+MAİLLƏNDİRİL	f.;
+MAİLLƏNDİRİLMƏ	f.;
+MAİLİ	sif.;

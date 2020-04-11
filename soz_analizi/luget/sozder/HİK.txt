@@ -1,0 +1,6 @@
+HİKKƏ	is.;
+HİKKƏLİ	sif.;
+HİKMƏT	is.;
+HİKMƏTAMİZLİK	is.;
+HİKMƏTLİ	sif.;
+HİKMƏTLİLİK	is.;

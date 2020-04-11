@@ -1,0 +1,13 @@
+AZDAN-ÇOXDAN	zer.;
+AZDANIŞAN	sif.;
+AZDAVAMLI	sif.;
+AZDEBİTLİ	sif.;
+AZDIR	f.;
+AZDIRIL	f.;
+AZDIRILMAQ	f.;
+AZDIRMAQ	f.;
+AZDIRT	f.;
+AZDIRTMAQ	f.;
+AZDÖZÜMLÜ	sif.;
+AZDİŞLİ	sif.;
+AZDİŞİCİKLİ	sif.;

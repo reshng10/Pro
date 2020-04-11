@@ -1,0 +1,16 @@
+SÜTLÜKƏN	is.;
+SÜTUN	is.;
+SÜTUNABƏNZƏR	sif.;
+SÜTUNAOXŞAR	sif.;
+SÜTUNCUQ	is.;
+SÜTUNLARARASI	sif.;
+SÜTUNLU	sif.;
+SÜTUNLUQ	is.;
+SÜTUNVARI	sif.;
+SÜTUNVARILIQ	is.;
+SÜTÜL	sif.;
+SÜTÜLLÜK	is.;
+SÜTÜLLƏNMƏ	f_is.;
+SÜTÜLLƏNMƏK	f.;sif.;
+SÜTÜLLƏŞMƏ	f_is.;
+SÜTÜLLƏŞMƏK	f.;sif.;

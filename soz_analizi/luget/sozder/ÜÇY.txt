@@ -1,0 +1,10 @@
+ÜÇYANLI	sif.;
+ÜÇYARPAQ	sif.;
+ÜÇYARPAQLI	sif.;
+ÜÇYARUSLU	sif.;
+ÜÇYAŞ	sif.;
+ÜÇYAŞAR	sif.;
+ÜÇYAŞLI	sif.;
+ÜÇYERLİ	sif.;
+ÜÇYUVALI	sif.;
+ÜÇYÜZİLLİK	sif.;

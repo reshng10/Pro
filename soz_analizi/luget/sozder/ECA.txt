@@ -1,0 +1,5 @@
+ECAZ	is.;
+ECAZKAR	sif.;
+ECAZKARCA	zer.;
+ECAZKARCASINA	zer.;
+ECAZKARLIQ	is.;

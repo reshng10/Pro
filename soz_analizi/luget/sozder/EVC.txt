@@ -1,0 +1,8 @@
+EVC	sif.;
+EVCANLI	sif.;
+EVCANLILIQ	is.;
+EVCİK	sif.;
+EVCİK-EVCİK	is.;
+EVCİKLİ	sif.;
+EVCİL	sif.;
+EVCİYƏZ	is.;

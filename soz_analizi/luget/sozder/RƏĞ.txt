@@ -1,0 +1,16 @@
+RƏĞBƏT	is.;
+RƏĞBƏT	is.;
+RƏĞBƏTLİ	sif.;
+RƏĞBƏTLİ	sif.;
+RƏĞBƏTLİLİK	is.;
+RƏĞBƏTLƏNDİR	f.;
+RƏĞBƏTLƏNDİRMƏ	f_is.;
+RƏĞBƏTLƏNDİRMƏ	f_is.;
+RƏĞBƏTLƏNDİRMƏK	f.;
+RƏĞBƏTLƏNDİRMƏK	f.;
+RƏĞBƏTLƏNDİRİL	f.;
+RƏĞBƏTLƏNDİRİLMƏ	f.;
+RƏĞBƏTSİZ	sif.;
+RƏĞBƏTSİZLİK	is.;
+RƏĞMƏN	qo.;
+RƏĞMƏN	qo.;

@@ -1,0 +1,16 @@
+ANQAB	is.;
+ANQAR	is.;
+ANQIR	f.;
+ANQIRIŞ	f.;
+ANQIRIŞMAQ	f.;
+ANQIRMAQ	f.;
+ANQIRT	f.;
+ANQIRTI	is.;
+ANQIRTMAQ	f.;
+ANQLEZİT	is.;
+ANQLOLOQ	is.;
+ANQLOSAKS	is.;
+ANQLOSAKSON	is.;
+ANQOSTROM	is.;
+ANQUT	is.;
+ANQUTBOĞAZ	sif.;

@@ -1,0 +1,6 @@
+ARLAN	f.;
+ARLANMA	f_is.;
+ARLANMAQ	f.;
+ARLI	sif.;
+ARLI-ABIRLI	sif.;
+ARLI-NAMUSLU	sif.;

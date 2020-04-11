@@ -1,0 +1,5 @@
+MIS-MIS	teq.;
+MISILDA	f.;
+MISILDAN	f.;
+MISMIRIQ	is.;
+MISMIRIQLI	sif.;

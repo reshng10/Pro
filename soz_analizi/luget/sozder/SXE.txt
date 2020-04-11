@@ -1,0 +1,10 @@
+SXEM	f.;
+SXEM	f.;
+SXEM	f.;
+SXEMATİK	sif.;
+SXEMATİK	sif.;
+SXEMATİK	sif.;
+SXEMATİKLİK	is.;
+SXEMATİKLİK	is.;
+SXEMATİKLİK	is.;
+SXEMLƏŞMİŞ	f_sif.;

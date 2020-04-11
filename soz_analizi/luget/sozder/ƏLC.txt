@@ -1,0 +1,10 @@
+ƏLCƏ	sif.;
+ƏLCƏCİK	sif.;
+ƏLCƏK	is.;
+ƏLCƏKBİÇƏN	is.;
+ƏLCƏKCİK	is.;
+ƏLCƏKLİ	sif.;
+ƏLCƏKLİK	is.;
+ƏLCƏKTOXUYAN	is.;
+ƏLCƏKTİKƏN	f_sif.;
+ƏLCƏZAİRLİ	sif.;

@@ -1,0 +1,10 @@
+EFFEKT	is.;
+EFFEKTLİ	sif.;
+EFFEKTLİLİK	is.;
+EFFEKTOR	is.;
+EFFEKTSİZ	sif.;
+EFFEKTSİZLİK	is.;
+EFFEKTİV	sif.;
+EFFEKTİVLİK	is.;
+EFFUZİV	sif.;
+EFFUZİYA	is.;

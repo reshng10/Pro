@@ -1,0 +1,4 @@
+CIDIR	is.;
+CIDIROĞLU	is.;
+CIDIRÇI	is.;
+CIDIRÇILIQ	is.;

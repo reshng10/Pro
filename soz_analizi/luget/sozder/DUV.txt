@@ -1,0 +1,9 @@
+DUVAQ	is.;
+DUVAQLA	f.;
+DUVAQLAMAQ	f.;
+DUVAQLAN	f.;
+DUVAQLANMAQ	f.;
+DUVAQLI	sif.;
+DUVAQLIQ	is.;
+DUVAQQAPMA	is.;
+DUVAQSIZ	sif.;zer.;

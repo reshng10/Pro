@@ -1,0 +1,8 @@
+ZOPA	f.;is.;
+ZOPALAMA	f_is.;
+ZOPALAMAQ	f.;
+ZOPALANMA	f_is.;
+ZOPALANMAQ	mech.;
+ZOPALATMA	f_is.;
+ZOPALATMAQ	icb.;
+ZOPU	is.;

@@ -1,0 +1,11 @@
+KOD	is.;
+KODAK	is.;
+KODEİN	is.;
+KODLA	f.;
+KODLAYAN	f_sif.;
+KODLAŞDIR	f.;
+KODLAŞDIRIL	f.;
+KODLAŞMIŞ	f_sif.;
+KODLU	sif.;
+KODOSKOP	is.;
+KODİFİKASİYA	is.;

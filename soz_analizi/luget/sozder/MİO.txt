@@ -1,0 +1,13 @@
+MİOEPİTELİAL	sif.;
+MİOFİBRİL	sif.;
+MİOGENSİNKLİNAL	say;
+MİOKARD	is.;
+MİOKARDİODİSTROFİYA	is.;
+MİOKARDİT	is.;
+MİOLOGİYA	is.;
+MİOLOJİ	sif.;
+MİOLOQ	is.;
+MİOPİYA	is.;
+MİOQRAF	is.;
+MİOZİN	is.;
+MİOZİT	is.;

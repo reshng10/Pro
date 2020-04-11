@@ -1,0 +1,7 @@
+SEPARAT	is.;
+SEPARATORÇU	is.;
+SEPARATÇI	sif.;
+SEPARATÇILIQ	is.;
+SEPSİS	is.;
+SEPTİK	is.;
+SEPTİMA	is.;

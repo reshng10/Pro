@@ -1,0 +1,9 @@
+OLA-OLA	f.;
+OLACAQ	is.;
+OLACAQLI	sif.;
+OLAN	f_sif.;
+OLAN-KEÇƏN	is.;
+OLAN-OLMAZ	sif.;
+OLAN-QALAN	sif.;
+OLAR-OLMAZ	f.;
+OLAY	is.;

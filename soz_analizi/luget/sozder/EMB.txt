@@ -1,0 +1,10 @@
+EMBARQO	is.;
+EMBLEM	is.;
+EMBLEMLİ	sif.;
+EMBOLİYA	is.;
+EMBRİOGENEZ	is.;
+EMBRİOLOGİYA	is.;
+EMBRİOLOJİ	sif.;
+EMBRİOLOQ	is.;
+EMBRİON	is.;
+EMBRİONAL	sif.;

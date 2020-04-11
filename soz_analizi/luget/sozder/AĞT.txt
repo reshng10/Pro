@@ -1,0 +1,10 @@
+AĞTORPAQ	is.;
+AĞTORPAQ(LI)	sif.;
+AĞTORPAQLI	sif.;
+AĞTÜK	is.;
+AĞTÜK(LÜ)	sif.;
+AĞTÜKLÜ	sif.;
+AĞTİKAN	is.;
+AĞTİKANLIQ	is.;
+AĞTƏHƏR	sif.;
+AĞTƏRƏ	is.;

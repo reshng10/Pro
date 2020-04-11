@@ -1,0 +1,4 @@
+VİSKOZ	sif.;
+VİSKOZLU	sif.;
+VİSKİ	is.;
+VİSMUNDİR	is.;

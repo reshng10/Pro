@@ -1,0 +1,14 @@
+TİBB	is.;
+TİBBİ	sif.;
+TİBBİ-ANTROPOLOJİ	sif.;
+TİBBİ-BİOLOJİ	sif.;
+TİBBİ-COĞRAFİ	sif.;
+TİBBİ-FƏLSƏFİ	sif.;
+TİBBİ-GENETİK	sif.;
+TİBBİ-GİGİYENİK	sif.;
+TİBBİ-KİBERNETİK	sif.;
+TİBBİ-PEDAQOJİ	sif.;
+TİBBİ-PROFİLAKTİK	sif.;
+TİBBİ-PSİXOLOJİ	sif.;
+TİBBİ-STATİSTİK	sif.;
+TİBBİYYƏ	is.;

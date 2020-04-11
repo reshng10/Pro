@@ -1,0 +1,9 @@
+ARĞAC	is.;
+ARĞACLA	f.;
+ARĞACLAMAQ	f.;
+ARĞACLAN	f.;
+ARĞACLANMAQ	f.;
+ARĞACLIQ	is.;
+ARĞALI	is.;
+ARĞAZ	sif.;
+ARĞIN	sif.;

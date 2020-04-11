@@ -1,0 +1,14 @@
+AXMAQ	f.;
+AXMAQ	sif.;zer.;
+AXMAQ-AX	f.;
+AXMAQ-SARSAQ	sif.;
+AXMAQ-UX	sif.;
+AXMAQCA	zer.;
+AXMAQCA(SINA)	zer.;
+AXMAQCASINA	zer.;
+AXMAQLA	f.;
+AXMAQLAMAQ	f.;
+AXMAQLAŞ	f.;
+AXMAQLAŞMAQ	f.;
+AXMAQLIQ	is.;
+AXMAZ	sif.;

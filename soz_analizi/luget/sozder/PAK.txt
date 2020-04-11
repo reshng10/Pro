@@ -1,0 +1,15 @@
+PAK	is.;
+PAK	sif.;
+PAK-PAKİZƏ	sif.;
+PAKER	is.;
+PAKET	is.;
+PAKETLƏŞDİRİL	f.;
+PAKETVARI	sif.;
+PAKETƏBƏNZƏR	sif.;
+PAKLA	f.;
+PAKLAMAQ	f.;
+PAKLANMAQ	f.;
+PAKLIQ	is.;
+PAKT	is.;
+PAKİZƏ	sif.;
+PAKİZƏLİK	is.;

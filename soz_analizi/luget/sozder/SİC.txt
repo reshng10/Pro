@@ -1,0 +1,4 @@
+SİCİLLƏMƏ	sif.;
+SİCİM	is.;
+SİCİMLƏMƏ	f_is.;
+SİCİMLƏMƏK	f.;

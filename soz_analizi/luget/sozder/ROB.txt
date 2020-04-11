@@ -1,0 +1,5 @@
+ROBOT	is.;
+ROBOTLAŞDIR	f_sif.;
+ROBOTLAŞDIRIL	f_sif.;
+ROBOTLAŞDIRILMIŞ	f_sif.;
+ROBOTLAŞMIŞ	f_sif.;

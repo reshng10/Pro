@@ -1,0 +1,6 @@
+UZLAŞ	f.;
+UZLAŞDIR	f.;
+UZLAŞDIRIL	f.;
+UZLAŞDIRILMAQ	f.;
+UZLAŞDIRMAQ	f.;
+UZLAŞMAQ	f.;

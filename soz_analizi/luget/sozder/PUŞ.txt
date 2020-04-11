@@ -1,0 +1,6 @@
+PUŞBOL	is.;
+PUŞBOLÇU	is.;
+PUŞKİNŞÜNAS	is.;
+PUŞKİNŞÜNASLIQ	is.;
+PUŞTU	is.;
+PUŞTUCA	is.;

@@ -1,0 +1,3 @@
+SITMALI	f_sif.;
+SITQA	f.;
+SITQAMAQ	f.;

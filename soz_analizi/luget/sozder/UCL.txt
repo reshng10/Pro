@@ -1,0 +1,3 @@
+UCLAN	f.;
+UCLU	sif.;
+UCLUQ	is.;

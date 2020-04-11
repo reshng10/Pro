@@ -1,0 +1,3 @@
+GUYA	mod.;
+GUYULTU	is.;
+GUYULTULU	sif.;

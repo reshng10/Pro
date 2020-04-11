@@ -1,0 +1,11 @@
+VİNEQRET	is.;
+VİNETKA	is.;
+VİNT	is.;
+VİNTLİ	sif.;
+VİNTLƏMƏ	f.;
+VİNTLƏMƏK	f.;
+VİNTLƏNMİŞ	f.;
+VİNTLƏNMƏ	f.;
+VİNTLƏNMƏK	f.;
+VİNTVARİ	sif.;
+VİNİL	is.;

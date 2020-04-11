@@ -1,0 +1,4 @@
+OVQAT	is.;
+OVQATSIZ	sif.;
+OVQATSIZLIQ	is.;
+OVQATTƏLXLİK	is.;

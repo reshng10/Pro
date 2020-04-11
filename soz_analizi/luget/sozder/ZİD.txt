@@ -1,0 +1,8 @@
+ZİDD	sif.;
+ZİDDİNƏ	zer.;
+ZİDDİYYƏT	sif.;
+ZİDDİYYƏTLİ	sif.;
+ZİDDİYYƏTLİLİK	is.;
+ZİDDİYYƏTSİZ	sif.;
+ZİDDİYYƏTSİZLİK	is.;
+ZİDLİK	is.;

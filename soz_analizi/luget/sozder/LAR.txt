@@ -1,0 +1,10 @@
+LARI	sif.;
+LARİNGİT	is.;
+LARİNQOFON	is.;
+LARİNQOLOGİYA	is.;
+LARİNQOLOJİ	sif.;
+LARİNQOLOQ	is.;
+LARİNQOSKOP	is.;
+LARİNQOSKOPİYA	is.;
+LARİNQOSPAZM	is.;
+LARİNTOLOQ	is.;

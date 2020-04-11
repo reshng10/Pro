@@ -1,0 +1,4 @@
+BLİN	is.;
+BLİNK-KOMPARATOR	is.;
+BLİTS	is.;
+BLİTSKRİQ	is.;

@@ -1,0 +1,13 @@
+PUS	f.;
+PUSDUR	f.;
+PUSMA	f_is.;
+PUSMAQ	f.;
+PUSQU	is.;
+PUSQUÇU	is.;
+PUSQUÇULUQ	is.;
+PUSSOLAN	is.;
+PUSU	is.;
+PUSUCU	is.;
+PUSUL	f.;
+PUSULMA	f_is.;
+PUSULMAQ	mech.;

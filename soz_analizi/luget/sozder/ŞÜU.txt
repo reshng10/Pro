@@ -1,0 +1,9 @@
+ŞÜUR	is.;
+ŞÜURLAN	f.;
+ŞÜURLANMA	is.;
+ŞÜURLANMAQ	f.;
+ŞÜURLU	sif.;
+ŞÜURLULUQ	is.;
+ŞÜURSUZ	sif.;zer.;
+ŞÜURSUZCA	zer.;
+ŞÜURSUZLUQ	is.;

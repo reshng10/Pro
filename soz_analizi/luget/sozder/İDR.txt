@@ -1,0 +1,6 @@
+İDRAK	is.;
+İDRAKLI	sif.;
+İDRAKLILIQ	is.;
+İDRAKLIQ	is.;
+İDRAKSIZ	sif.;
+İDRAKSIZLIQ	is.;

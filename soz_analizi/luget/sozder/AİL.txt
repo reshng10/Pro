@@ -1,0 +1,16 @@
+AİLƏ	is.;
+AİLƏ-MƏİŞƏT	is.;
+AİLƏBAZ	sif.;
+AİLƏBAZLIQ	is.;
+AİLƏCANLI	sif.;
+AİLƏCANLILIQ	is.;
+AİLƏDAR	sif.;
+AİLƏDARLIQ	is.;
+AİLƏDAXİLİ	sif.;
+AİLƏLİ	sif.;
+AİLƏPƏRƏST	sif.;
+AİLƏPƏRƏSTLİK	is.;
+AİLƏSİZ	sif.;
+AİLƏSİZLİK	is.;
+AİLƏVİ	sif.;
+AİLƏÇİLİK	is.;

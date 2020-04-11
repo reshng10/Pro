@@ -1,0 +1,11 @@
+NAÇALNİK	is.;
+NAÇALNİKLİK	is.;
+NAÇAQ	sif.;
+NAÇAQLA	f.;
+NAÇAQLAMAQ	f.;
+NAÇAQLAN	f.;
+NAÇAQLIQ	is.;
+NAÇAR	sif.;zer.;
+NAÇARLIQ	zer.;
+NAÇİZ	sif.;
+NAÇİZLİK	is.;

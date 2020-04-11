@@ -1,0 +1,14 @@
+İLMƏ	is.;
+İLMƏ-DÜYMƏ	is.;
+İLMƏAÇAN	is.;
+İLMƏK	is.;
+İLMƏKLİ	sif.;
+İLMƏKLƏ	f.;
+İLMƏKLƏMƏ	f_is.;
+İLMƏKLƏMƏK	f.;
+İLMƏKLƏN	f.;
+İLMƏKLƏNMƏ	f.;
+İLMƏKLƏT	f.;
+İLMƏKLƏTMƏ	f_is.;
+İLMƏKLƏTMƏK	icb.;
+İLMƏKSİZ	sif.;

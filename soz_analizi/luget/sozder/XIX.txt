@@ -1,0 +1,6 @@
+XIXILDAMA	f_is.;
+XIXILDAMAQ	f.;
+XIXIR(T)MA	f_is.;
+XIXIR(T)MAQ	f.;
+XIXLANMA	f_is.;
+XIXLANMAQ	f.;mech.;sif.;

@@ -1,0 +1,12 @@
+FRENOLOJİ	sif.;
+FRENÇLİ	sif.;
+FRENÇLİK	is.;
+FRESKA-RƏSM	is.;
+FREYDİST	is.;
+FREZERLƏ	f.;
+FREZERLƏMƏ	f.;
+FREZERLƏN	f.;
+FREZERLƏNMİŞ	f_sif.;
+FREZERLƏNMƏ	f.;
+FREZERÇİ	is.;
+FREZERÇİLİK	is.;

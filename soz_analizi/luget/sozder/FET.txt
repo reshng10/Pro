@@ -1,0 +1,10 @@
+FETİŞ	is.;
+FETİŞLİK	is.;
+FETİŞLƏŞDİR	f.;
+FETİŞLƏŞDİRMƏ	f.;
+FETİŞLƏŞDİRMƏK	f.;
+FETİŞLƏŞDİRİL	f.;
+FETİŞLƏŞDİRİLMİŞ	f_sif.;
+FETİŞLƏŞDİRİLMƏ	f.;
+FETİŞİST	is.;
+FETİŞİZM	is.;

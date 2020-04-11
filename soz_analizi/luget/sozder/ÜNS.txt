@@ -1,0 +1,7 @@
+ÜNSÜR	is.;
+ÜNSÜRLÜ	sif.;
+ÜNSİYYƏT	is.;
+ÜNSİYYƏTLİ	sif.;
+ÜNSİYYƏTLİLİK	is.;
+ÜNSİYYƏTSİZ	sif.;
+ÜNSİYYƏTSİZLİK	is.;

@@ -1,0 +1,17 @@
+XLOR	is.;
+XLORELLA	is.;
+XLORLA	f.;
+XLORLAMA	f_is.;
+XLORLAMAQ	f.;
+XLORLAN	f.;
+XLORLANMA	f_is.;
+XLORLAŞ	f.;
+XLORLAŞDIR	f.;
+XLORLAŞDIRIL	f.;
+XLORLU	sif.;
+XLORLULUQ	is.;
+XLORİD	is.;
+XLORİN	is.;
+XLORİT	is.;
+XLORİTLƏŞ	f.;
+XLORİTLƏŞMƏ	f.;

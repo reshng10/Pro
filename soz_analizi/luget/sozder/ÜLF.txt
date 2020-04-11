@@ -1,0 +1,5 @@
+ÜLFƏT	is.;
+ÜLFƏTLİ	sif.;
+ÜLFƏTLİLİK	is.;
+ÜLFƏTSİZ	sif.;
+ÜLFƏTSİZLİK	is.;

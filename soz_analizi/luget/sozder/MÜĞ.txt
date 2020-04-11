@@ -1,0 +1,5 @@
+MÜĞAYİR	sif.;
+MÜĞAYİRLİK	is.;
+MÜĞƏNNİ	is.;
+MÜĞƏNNİ-BƏSTƏKAR	is.;
+MÜĞƏNNİLİK	is.;

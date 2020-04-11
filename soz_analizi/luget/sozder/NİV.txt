@@ -1,0 +1,9 @@
+NİVAL	sif.;
+NİVELİR	is.;
+NİVELİRLƏ	f.;
+NİVELİRLƏMƏ	f.;
+NİVELİRLƏN	f.;
+NİVELİRLƏNMƏ	f.;
+NİVELİRÇİ	is.;
+NİVX	is.;
+NİVXLƏR	is.;

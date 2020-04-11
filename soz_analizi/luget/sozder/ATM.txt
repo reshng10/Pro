@@ -1,0 +1,14 @@
+ATMACA	is.;
+ATMACALA	f.;
+ATMACALAMAQ	f.;
+ATMACALI	sif.;
+ATMAQ	f.;
+ATMARALI	is.;
+ATMOFİL	is.;
+ATMOSFER	is.;
+ATMOSFERDAXİLİ	sif.;
+ATMOSFERDƏNKƏNAR	sif.;
+ATMOSFERLİ	sif.;
+ATMOSFERLİK	is.;
+ATMİLÇƏYİ	is.;
+ATMİNƏN	is.;

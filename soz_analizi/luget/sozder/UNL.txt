@@ -1,0 +1,8 @@
+UNLA	f.;
+UNLAMAQ	f.;
+UNLAN	f.;
+UNLAT	f.;
+UNLU	sif.;
+UNLUCA	is.;
+UNLULUQ	is.;
+UNLUQ	is.;

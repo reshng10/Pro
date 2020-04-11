@@ -1,0 +1,10 @@
+HİBRİD	f.;
+HİBRİDLƏŞ	f.;
+HİBRİDLƏŞDİR	f.;
+HİBRİDLƏŞDİRMƏ	f_is.;
+HİBRİDLƏŞDİRMƏK	f.;
+HİBRİDLƏŞDİRİL	f.;
+HİBRİDLƏŞDİRİLMƏ	f_is.;
+HİBRİDLƏŞDİRİLMƏK	mech.;
+HİBRİDLƏŞMƏ	f.;
+HİBRİDOLOGİYA	is.;

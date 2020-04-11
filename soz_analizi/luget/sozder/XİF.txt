@@ -1,0 +1,11 @@
+XİFFƏT	is.;
+XİFFƏTCİL	sif.;
+XİFFƏTCİLLİK	is.;
+XİFFƏTLƏN	f.;
+XİFFƏTLƏNDİR	f.;
+XİFFƏTLƏNDİRMƏ	f_is.;
+XİFFƏTLƏNDİRMƏK	f.;
+XİFFƏTLƏNDİRİL	f.;
+XİFFƏTLƏNDİRİLMƏ	f.;
+XİFFƏTLƏNMƏ	f_is.;
+XİFFƏTLƏNMƏK	f.;

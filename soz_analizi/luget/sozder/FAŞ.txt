@@ -1,0 +1,14 @@
+FAŞ	sif.;
+FAŞİN	is.;
+FAŞİST	is.;
+FAŞİSTLİK	is.;
+FAŞİSTLƏŞ	f.;
+FAŞİSTLƏŞDİR	f.;
+FAŞİSTLƏŞDİRMƏ	f.;
+FAŞİSTLƏŞDİRİL	f.;
+FAŞİSTLƏŞDİRİLMİŞ	f.;
+FAŞİSTLƏŞDİRİLMƏ	f.;
+FAŞİSTLƏŞMİŞ	f_sif.;
+FAŞİSTLƏŞMƏ	f.;
+FAŞİSTPƏRƏST	sif.;
+FAŞİZM	is.;

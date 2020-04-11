@@ -1,0 +1,3 @@
+TUVACA	sif.;zer.;
+TUVALI	sif.;
+TUVALILAR	is.;

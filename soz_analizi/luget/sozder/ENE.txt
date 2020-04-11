@@ -1,0 +1,12 @@
+ENEOLİT	is.;
+ENERGETİK	is.;
+ENERGETİK	sif.;
+ENERGETİKA	is.;
+ENERGETİZM	is.;
+ENERGİYA	is.;
+ENERJİ	is.;
+ENERJİDAXİLİ	sif.;
+ENERJİDAŞIYICI	is.;
+ENERJİLİ	sif.;
+ENERJİQURAŞDIRICI	is.;
+ENERVASİYA	is.;

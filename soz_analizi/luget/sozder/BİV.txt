@@ -1,0 +1,15 @@
+BİVALENT	sif.;
+BİVARİANT	sif.;
+BİVARİANT-SİSTEM	is.;
+BİVARİANTLI	sif.;
+BİVARİS	is.;sif.;
+BİVARİSLİK	is.;
+BİVASİTƏ	is.;
+BİVAXT	sif.;
+BİVEC	sif.;
+BİVECLİK	is.;
+BİVÜCUD	sif.;
+BİVƏ	sif.;
+BİVƏFA	sif.;
+BİVƏFALIQ	is.;
+BİVƏHM	sif.;

@@ -1,0 +1,6 @@
+MUXRU	is.;
+MUXTAR	sif.;
+MUXTARİYYƏT	is.;
+MUXTARİYYƏTLİ	sif.;
+MUXTARİYYƏTÇİLİK	is.;
+MUXUL	sif.;

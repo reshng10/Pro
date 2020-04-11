@@ -1,0 +1,14 @@
+ŞÖVKƏT	is.;
+ŞÖVKƏTLİ	sif.;
+ŞÖVQ	is.;
+ŞÖVQ-HƏVƏS	is.;
+ŞÖVQLÜ	sif.;
+ŞÖVQLÜLÜK	is.;
+ŞÖVQLƏ	zer.;
+ŞÖVQLƏN	f.;
+ŞÖVQLƏNDİRİCİ	sif.;
+ŞÖVQLƏNDİRİL	f.;
+ŞÖVQLƏNDİRİLMƏ	f.;
+ŞÖVQLƏNMƏ	f.;
+ŞÖVQSÜZ	sif.;
+ŞÖVQSÜZLÜK	is.;

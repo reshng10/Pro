@@ -1,0 +1,4 @@
+POVEST	is.;
+POVEST-NOVELLA	is.;
+POVESTÇİ	is.;
+POVİDLO	is.;

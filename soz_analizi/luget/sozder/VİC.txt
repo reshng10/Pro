@@ -1,0 +1,15 @@
+VİCDAN	is.;
+VİCDANLA	zer.;
+VİCDANLI	sif.;
+VİCDANLILIQ	is.;
+VİCDANSIZ	sif.;
+VİCDANSIZCA	zer.;
+VİCDANSIZCASINA	zer.;
+VİCDANSIZLIQ	is.;
+VİCDANİ	sif.;
+VİCDANƏN	zer.;
+VİCVİCƏ	is.;
+VİCƏLƏNDİRMƏ	f.;
+VİCƏLƏNDİRMƏK	f.;
+VİCƏLƏNMƏ	f.;
+VİCƏLƏNMƏK	f.;

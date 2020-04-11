@@ -1,0 +1,16 @@
+HÖCCƏLƏ	f.;
+HÖCCƏLƏMƏ	f_is.;
+HÖCCƏLƏMƏK	f.;
+HÖCCƏLƏN	f.;
+HÖCCƏLƏNMƏ	f.;
+HÖCCƏLƏYƏ-HÖCCƏLƏYƏ	zer.;
+HÖCƏT	zer.;f.;is.;sif.;
+HÖCƏTKAR	sif.;
+HÖCƏTKARLIQ	is.;
+HÖCƏTLİ	sif.;
+HÖCƏTLİK	is.;
+HÖCƏTLƏŞ	f.;
+HÖCƏTLƏŞMƏ	f_is.;
+HÖCƏTLƏŞMƏK	qars.;
+HÖCƏTÇİ	sif.;
+HÖCƏTÇİLİK	is.;

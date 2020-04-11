@@ -1,0 +1,16 @@
+İBADƏT	f.;is.;
+İBADƏTGAH	is.;
+İBADƏTKAR	f.;is.;sif.;
+İBADƏTKARLIQ	is.;
+İBADƏTXANA	is.;
+İBADƏTÇİ	is.;
+İBADƏTÇİLİK	is.;
+İBARƏ	is.;
+İBARƏBAZ	is.;
+İBARƏBAZLIQ	is.;
+İBARƏLİ	sif.;
+İBARƏLİLİK	is.;
+İBARƏPƏRDAZ	is.;
+İBARƏPƏRDAZLIQ	is.;
+İBARƏÇİ	is.;
+İBARƏÇİLİK	is.;

@@ -1,0 +1,15 @@
+ÜÇADAMLIQ	sif.;
+ÜÇAKTLI	sif.;
+ÜÇARVADLI	sif.;
+ÜÇARVADLILIQ	is.;
+ÜÇARŞINLIQ	sif.;
+ÜÇATILAN	is.;
+ÜÇATLI	sif.;
+ÜÇATOMLU	sif.;
+ÜÇAYAQ	is.;
+ÜÇAYAQLI	sif.;
+ÜÇAYLIQ	sif.;
+ÜÇAÇILAN	is.;
+ÜÇAĞIZ	sif.;
+ÜÇAĞIZCIQLI	sif.;
+ÜÇAĞIZLI	sif.;

@@ -1,0 +1,11 @@
+NƏĞMƏ	is.;
+NƏĞMƏKAR	is.;
+NƏĞMƏKARLIQ	is.;
+NƏĞMƏLİ	sif.;
+NƏĞMƏLƏRARASI	sif.;
+NƏĞMƏLƏŞ	f.;
+NƏĞMƏSAZ	sif.;
+NƏĞMƏSAZLIQ	is.;
+NƏĞMƏXAN	is.;
+NƏĞMƏXANLIQ	is.;
+NƏĞMƏYƏYATIMLI	sif.;

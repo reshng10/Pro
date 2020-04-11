@@ -1,0 +1,4 @@
+AŞLAMAQ	f.;
+AŞLANMAQ	f.;
+AŞLI	sif.;
+AŞLIQ	sif.;

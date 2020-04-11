@@ -1,0 +1,4 @@
+CUY	is.;
+CUYBAR	is.;
+CUYLA	f.;
+CUYLAT	f.;

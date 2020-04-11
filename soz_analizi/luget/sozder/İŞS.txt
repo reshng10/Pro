@@ -1,0 +1,5 @@
+İŞSEVƏN	sif.;
+İŞSİZ	zer.;sif.;
+İŞSİZ-GÜCSÜZ	zer.;sif.;
+İŞSİZ-PEŞƏSİZ	zer.;sif.;
+İŞSİZLİK	is.;

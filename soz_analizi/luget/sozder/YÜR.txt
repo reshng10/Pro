@@ -1,0 +1,11 @@
+YÜRÜ	f.;
+YÜRÜDÜL	f.;
+YÜRÜDÜLMƏ	f.;
+YÜRÜK	is.;
+YÜRÜMƏ	f.;
+YÜRÜMƏK	f.;
+YÜRÜT	f.;
+YÜRÜTMƏ	f.;
+YÜRÜTMƏK	f.;
+YÜRÜŞ	is.;
+YÜRÜŞÇÜ	is.;

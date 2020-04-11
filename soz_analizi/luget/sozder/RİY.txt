@@ -1,0 +1,17 @@
+RİYA	is.;
+RİYAKAR	sif.;
+RİYAKARCASINA	zer.;
+RİYAKARLIQ	is.;
+RİYASIZ	sif.;
+RİYASIZLIQ	is.;
+RİYAZİ	sif.;
+RİYAZİLƏŞDİRİL	f_sif.;
+RİYAZİLƏŞDİRİLMƏ	f_sif.;
+RİYAZİYYAT	is.;
+RİYAZİYYATLAŞMA	f_si
+RİYAZİYYATÇI	is.;
+RİYAZİYYATÇI-MÜHƏNDİS	is.;
+RİYAZİYYATÇI-PROQRAMLAŞDIRICI	sif.;
+RİYAZİYYATÇILIQ	is.;
+RİYAZİYYATŞÜNAS	is.;
+RİYAZƏT	is.;

@@ -1,0 +1,11 @@
+DAKRON	is.;
+DAKRİODENİT	is.;
+DAKRİOSİSTİT	is.;
+DAKTİL	is.;
+DAKTİLOQRAFİK	sif.;
+DAKTİLOQRAFİYA	is.;
+DAKTİLOSKOP	is.;
+DAKTİLOSKOPİK	sif.;
+DAKTİLOSKOPİYA	is.;
+DAKTİOLOGİYA	is.;
+DAKTİOLOJİ	sif.;

@@ -1,0 +1,8 @@
+LİKTOR	is.;
+LİKVASİYA	is.;
+LİKVATOR	is.;
+LİKVİDLİK	is.;
+LİKÖR	is.;
+LİKÖR-ARAQ	is.;
+LİKÖR-İÇKİ	is.;
+LİKİYA	is.;

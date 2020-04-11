@@ -1,0 +1,12 @@
+RİŞ	is.;
+RİŞBABA	is.;
+RİŞTƏ	is.;zer.;
+RİŞXƏND	is.;
+RİŞXƏNDCİL	sif.;
+RİŞXƏNDEDİCİ	sif.;
+RİŞXƏNDLİ	sif.;
+RİŞXƏNDLƏ	is.;
+RİŞXƏNDYANA	sif.;
+RİŞXƏNDÇİ	is.;
+RİŞƏ	is.;
+RİŞƏSİZ	sif.;

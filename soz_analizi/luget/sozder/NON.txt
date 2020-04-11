@@ -1,0 +1,5 @@
+NONAKKORD	is.;
+NONET	is.;
+NONPAREL	is.;
+NONSENS	is.;
+NONİUS	is.;

@@ -1,0 +1,5 @@
+GAP	is.;
+GAPLAMAQ	f.;
+GAPTLAMA	f_is.;
+GAPÇI	is.;
+GAPÇILIQ	is.;

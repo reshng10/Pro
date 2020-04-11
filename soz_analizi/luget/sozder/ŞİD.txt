@@ -1,0 +1,16 @@
+ŞİDDƏT	is.;
+ŞİDDƏTLİ	sif.;
+ŞİDDƏTLİLİK	is.;
+ŞİDDƏTLƏ	zer.;
+ŞİDDƏTLƏN	f.;
+ŞİDDƏTLƏNDİR	f.;
+ŞİDDƏTLƏNDİRMƏ	is.;
+ŞİDDƏTLƏNDİRMƏK	f.;
+ŞİDDƏTLƏNDİRİCİ	sif.;
+ŞİDDƏTLƏNDİRİL	f.;
+ŞİDDƏTLƏNDİRİLMƏ	is.;
+ŞİDDƏTLƏNDİRİLMƏK	f.;
+ŞİDDƏTLƏNMƏ	is.;
+ŞİDDƏTLƏNMƏK	f.;
+ŞİDDƏTSİZ	sif.;
+ŞİDDƏTSİZLİK	is.;

@@ -1,0 +1,7 @@
+PESO	is.;
+PESSİMİST	sif.;
+PESSİMİSTCƏ	zer.;
+PESSİMİSTCƏSİNƏ	zer.;
+PESSİMİSTLİK	is.;
+PESSİMİZM	is.;
+PESTİSİD	is.;

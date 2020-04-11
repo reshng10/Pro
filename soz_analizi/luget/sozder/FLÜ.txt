@@ -1,0 +1,10 @@
+FLÜGEL	is.;
+FLÜGERCİK	is.;
+FLÜOR	is.;
+FLÜOROMETR	is.;
+FLÜOROMETRİYA	is.;
+FLÜOROQRAF	is.;
+FLÜOROQRAFİYA	is.;
+FLÜORPLAST	is.;
+FLÜORİT	is.;
+FLÜS	is.;

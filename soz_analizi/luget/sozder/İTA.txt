@@ -1,0 +1,17 @@
+İTALYAN	is.;
+İTALYANCA	zer.;
+İTALYANÇILIQ	is.;
+İTALİYALI	is.;
+İTARISI	is.;
+İTAĞIZ	sif.;
+İTAƏT	is.;zer.;
+İTAƏTKAR	sif.;
+İTAƏTKARANƏ	zer.;
+İTAƏTKARCASINA	zer.;
+İTAƏTKARLIQ	zer.;is.;
+İTAƏTLİ	sif.;
+İTAƏTLİLİK	zer.;is.;
+İTAƏTLƏ	zer.;
+İTAƏTSİZ	sif.;
+İTAƏTSİZLİK	is.;
+İTAƏTÇİ	is.;

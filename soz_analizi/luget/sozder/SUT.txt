@@ -1,0 +1,14 @@
+SUTKA	is.;
+SUTKABOYU	zer.;
+SUTKALIQ	is.;
+SUTOPLAYAN	f_sif.;
+SUTOPLAYICI	sif.;
+SUTORU	is.;
+SUTUTAR	is.;
+SUTUTUCU	sif.;
+SUTUTUMU	is.;
+SUTÖKƏN	is.;
+SUTƏMİZLƏMƏ	f.;
+SUTƏMİZLƏYİCİ	sif.;
+SUTƏMİZLƏYƏN	f_sif.;
+SUTƏNZİMEDİCİ	sif.;

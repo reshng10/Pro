@@ -1,0 +1,4 @@
+FLİBUSTYER	is.;
+FLİGEL	is.;
+FLİGEL-ADYUTANT	is.;
+FLİNT	is.;

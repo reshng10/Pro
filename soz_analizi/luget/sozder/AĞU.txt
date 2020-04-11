@@ -1,0 +1,8 @@
+AĞULA	is.;
+AĞULAMA	f_is.;
+AĞULAMAQ	f.;
+AĞULAN	is.;
+AĞULANMAQ	f.;
+AĞULU	sif.;
+AĞUZ	is.;
+AĞUŞ	is.;

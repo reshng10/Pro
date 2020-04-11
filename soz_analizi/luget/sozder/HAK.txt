@@ -1,0 +1,12 @@
+HAKİM	f.;is.;
+HAKİM-İNFORMATOR	is.;
+HAKİMANƏ	sif.;
+HAKİMANƏLİK	is.;
+HAKİMLİK	is.;
+HAKİMİ-MÜTLƏQ	sif.;
+HAKİMİ-MÜTLƏQLİK	is.;
+HAKİMİYYƏT	is.;
+HAKİMİYYƏTDAXİLİ	sif.;
+HAKİMİYYƏTPƏRƏST	sif.;
+HAKİMİYYƏTPƏRƏSTLİK	is.;
+HAKƏZA	zer.;

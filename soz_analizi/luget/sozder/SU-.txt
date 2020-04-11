@@ -1,0 +1,4 @@
+SU-AVTOMAT	is.;
+SU-DUZ	is.;
+SU-ELEKTRİK	is.;
+SU-QAZMAKƏMƏRİ	is.;

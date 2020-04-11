@@ -1,0 +1,11 @@
+PİANO	is.;
+PİANO	is.;
+PİANOÇU	is.;
+PİANOÇU-İLLÜSTRATOR	is.;
+PİANOÇULUQ	is.;
+PİANİNO	is.;
+PİANİNOÇALAN	is.;
+PİANİNOÇU	is.;
+PİANİNOÇULUQ	is.;
+PİANİZM	is.;
+PİASTR	is.;

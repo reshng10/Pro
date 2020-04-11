@@ -1,0 +1,16 @@
+SİQAR	f.;
+SİQARABƏNZƏR	sif.;
+SİQARETÇƏKƏN	is.;
+SİQLƏT	is.;
+SİQMA-ELEKTRON	is.;
+SİQMA-FAZA	is.;
+SİQMA-FUNKSİYA	is.;
+SİQMA-VİRUS	is.;
+SİQNALARASI	sif.;
+SİQNALDAŞIYICI	is.;
+SİQNALVERMƏ	f.;
+SİQNALVERİCİ	sif.;
+SİQNALÇI	is.;
+SİQNALÇILIQ	is.;
+SİQNALİZATOR	is.;
+SİQNATURA	is.;

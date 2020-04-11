@@ -1,0 +1,13 @@
+SÖVDALI	sif.;
+SÖVDƏ	is.;
+SÖVDƏGƏR	is.;
+SÖVDƏGƏRLİK	is.;
+SÖVDƏLƏŞ	f.;
+SÖVDƏLƏŞMƏ	f_is.;
+SÖVDƏLƏŞMƏK	f.;
+SÖVQ	is.;
+SÖVQ-TƏBİİ	sif.;
+SÖVQETMƏ	f.;
+SÖVQİ-TƏBİİ	is.;
+SÖVT	is.;
+SÖVTİ	zer.;

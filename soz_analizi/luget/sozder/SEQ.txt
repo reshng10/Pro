@@ -1,0 +1,6 @@
+SEQMENT	is.;
+SEQMENTASİYA	is.;
+SEQMENTLİ	sif.;
+SEQMENTNÜVƏLİ	sif.;
+SEQMENTVARI	sif.;
+SEQREQASİYA	is.;

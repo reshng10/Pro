@@ -1,0 +1,10 @@
+VƏFA	is.;
+VƏFADAR	sif.;
+VƏFADARLIQ	is.;
+VƏFAKAR	sif.;
+VƏFAKARLIQ	is.;
+VƏFALI	sif.;
+VƏFALILIQ	is.;
+VƏFASIZ	sif.;
+VƏFASIZLIQ	is.;
+VƏFAT	is.;

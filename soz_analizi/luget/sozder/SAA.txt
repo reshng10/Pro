@@ -1,0 +1,12 @@
+SAAM(LAR)	is.;
+SAAT	is.;
+SAAT-ZƏNCİR	is.;
+SAATBASAAT	zer.;
+SAATBAŞI	zer.;
+SAATHESABI	sif.;
+SAATLARCA	zer.;
+SAATLARLA	zer.;
+SAATQABI	is.;
+SAATSAZ	is.;
+SAATSAZLIQ	is.;
+SAATYARIMLIQ	sif.;

@@ -1,0 +1,6 @@
+OVŞALA	is.;
+OVŞAR	is.;
+OVŞARLA	f.;
+OVŞARLAMAQ	f.;
+OVŞÜNAS	is.;
+OVŞÜNASLIQ	is.;

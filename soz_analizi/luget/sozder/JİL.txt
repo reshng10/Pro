@@ -1,0 +1,4 @@
+JİLET	is.;
+JİLETKA	is.;
+JİLETLİ	sif.;
+JİLETLİK	sif.;

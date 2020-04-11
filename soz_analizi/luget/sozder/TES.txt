@@ -1,0 +1,7 @@
+TEST	is.;
+TESTLƏŞ	f.;
+TESTLƏŞDİR	f.;
+TESTLƏŞDİRMƏ	f.;
+TESTLƏŞDİRİL	f.;
+TESTLƏŞDİRİLMƏ	f.;
+TESTLƏŞMƏ	f.;

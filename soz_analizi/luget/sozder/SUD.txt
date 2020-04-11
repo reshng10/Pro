@@ -1,0 +1,11 @@
+SUDARTAN	sif.;
+SUDAŞIYAN	is.;
+SUDOLDURAN	sif.;
+SUDUR	is.;
+SUDURLAMA	f_is.;
+SUDURLAMAQ	f.;
+SUDURULDAN	is.;
+SUDURULDUCU	sif.;
+SUDÖVRETMƏ	f.;
+SUDÖYƏN	sif.;
+SUDİBİ	zer.;

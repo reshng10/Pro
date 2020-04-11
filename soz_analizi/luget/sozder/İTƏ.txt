@@ -1,0 +1,12 @@
+İTƏBAXAN	is.;
+İTƏLƏ	f.;
+İTƏLƏMƏ	f.is.;
+İTƏLƏMƏK	f.;
+İTƏLƏN	f.;
+İTƏLƏNMƏ	is.;
+İTƏLƏNMƏK	f.;
+İTƏLƏYİCİ	is.;
+İTƏLƏŞ	f.;
+İTƏLƏŞMƏ	f.is.;
+İTƏLƏŞMƏK	f.;
+İTƏN	f_sif.;

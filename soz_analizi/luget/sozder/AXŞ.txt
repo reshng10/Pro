@@ -1,0 +1,16 @@
+AXŞAM	is.;
+AXŞAM-AXŞAM	is.;
+AXŞAM-SABAH	is.;
+AXŞAM-SƏHƏR	is.;
+AXŞAMAYAXIN	is.;
+AXŞAMBAZARI	is.;
+AXŞAMKI	sif.;
+AXŞAMLA	f.;
+AXŞAMLAMAQ	f.;
+AXŞAMLAT	f.;
+AXŞAMLIQ	is.;
+AXŞAMOLDU	is.;
+AXŞAMQABAĞI	zer.;
+AXŞAMTƏRƏFİ	zer.;
+AXŞAMÇAĞI	zer.;
+AXŞAMÜSTÜ	zer.;

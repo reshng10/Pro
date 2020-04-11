@@ -1,0 +1,13 @@
+ÜÇMANATLIQ	is.;sif.;
+ÜÇMETRLİK	sif.;
+ÜÇMOTORLU	sif.;
+ÜÇMİLLİ	sif.;
+ÜÇMİLYONLUQ	sif.;
+ÜÇMİNLİK	sif.;
+ÜÇMƏCHULLU	sif.;
+ÜÇMƏFTİLLİ	sif.;
+ÜÇMƏNZİLLİ	sif.;
+ÜÇMƏRKƏZLİ	sif.;
+ÜÇMƏRTƏBƏ	sif.;
+ÜÇMƏRTƏBƏ(Lİ)	sif.;
+ÜÇMƏRTƏBƏLİ	sif.;

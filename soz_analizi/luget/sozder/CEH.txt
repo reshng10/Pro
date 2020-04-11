@@ -1,0 +1,4 @@
+CEHİZ	is.;
+CEHİZLİ	sif.;
+CEHİZLİK	is.;
+CEHİZSİZ	sif.;

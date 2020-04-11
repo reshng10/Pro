@@ -1,0 +1,11 @@
+MAFAR	is.;
+MAFARLI	sif.;
+MAFARSIZ	sif.;
+MAFRAQ	sif.;
+MAFRAQLAN	f.;
+MAFRAQLAŞ	f.;
+MAFRAQLIQ	is.;
+MAFİOZ	is.;
+MAFİYA	is.;
+MAFİYAÇI	is.;
+MAFƏ	is.;

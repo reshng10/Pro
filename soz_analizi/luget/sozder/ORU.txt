@@ -1,0 +1,4 @@
+ORUC	is.;
+ORUC-NAMAZ	is.;
+ORUCAĞIZ	sif.;
+ORUCLUQ	is.;

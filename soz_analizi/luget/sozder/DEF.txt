@@ -1,0 +1,14 @@
+DEFEKTOLOGİYA	is.;
+DEFEKTOLOJİ	sif.;
+DEFEKTOSKOP	is.;
+DEFEKTOSKOPİK	sif.;
+DEFEKTOSKOPİYA	is.;
+DEFOLT	is.;
+DEFOLİANT	is.;
+DEFORMASİYA	is.;
+DEFORMASİYAEDİCİ	sif.;
+DEFİS	is.;
+DEFİSİT	is.;
+DEFİSİTLİ	sif.;
+DEFİSİTLİK	is.;
+DEFİSİTSİZ	sif.;

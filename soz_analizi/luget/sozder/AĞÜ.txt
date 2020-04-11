@@ -1,0 +1,4 @@
+AĞÜRƏK	sif.;
+AĞÜRƏKLİ	sif.;
+AĞÜZ	is.;
+AĞÜZLÜ	sif.;

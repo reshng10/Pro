@@ -1,0 +1,6 @@
+OBRAZ	is.;
+OBRAZLAŞ	f.;
+OBRAZLAŞDIR	f.;
+OBRAZLAŞMIŞ	f_sif.;
+OBRAZLI	zer.;sif.;
+OBRAZLILIQ	is.;

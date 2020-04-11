@@ -1,0 +1,14 @@
+QİBLEYİ-ALƏM	is.;
+QİBLƏ	is.;
+QİBLƏGAH	is.;
+QİBLƏKEŞ	sif.;
+QİBLƏKEŞLİK	is.;
+QİBLƏNÜMA	is.;
+QİBT	is.;
+QİBTİ	is.;
+QİBTƏ	is.;
+QİBTƏ	is.;
+QİBTƏEDİCİ	sif.;
+QİBTƏEDİLMƏZ	sif.;
+QİBTƏKEŞ	sif.;
+QİBTƏKEŞLİK	is.;

@@ -1,0 +1,10 @@
+BUFER	is.;
+BUFET	f.;
+BUFET-BAR	is.;
+BUFET-MƏTBƏX	is.;
+BUFETÇİ	is.;
+BUFETÇİLİK	is.;
+BUFF-OPERA	is.;
+BUFFON	is.;
+BUFFONADA	is.;
+BUFFONOTU	is.;

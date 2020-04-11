@@ -1,0 +1,5 @@
+EVSAF	f.;
+EVSİZ	sif.;
+EVSİZ-EŞİKSİZ	sif.;
+EVSİZ-EŞİKSİZLİK	is.;
+EVSİZLİK	is.;

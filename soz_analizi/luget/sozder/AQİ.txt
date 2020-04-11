@@ -1,0 +1,7 @@
+AQİBƏT	is.;
+AQİBƏTLİ	sif.;
+AQİBƏTSİZ	sif.;
+AQİBƏTSİZLİK	is.;
+AQİL	sif.;
+AQİLANƏ	sif.;zer.;
+AQİLLİK	sif.;

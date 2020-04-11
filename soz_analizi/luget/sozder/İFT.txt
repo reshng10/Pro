@@ -1,0 +1,14 @@
+İFTADƏ	f_sif.;
+İFTADƏLİK	is.;
+İFTAR	f.;is.;
+İFTARLIQ	is.;
+İFTİRA	is.;
+İFTİRA-BÖHTAN	is.;
+İFTİRAÇI	is.;
+İFTİRAÇILIQ	is.;
+İFTİXAR	is.;zer.;
+İFTİXARLA	zer.;
+İFTİXARLAN	f.;
+İFTİXARLANMA	f_is.;
+İFTİXARLANMAQ	f.;
+İFTİXARLI	sif.;

@@ -1,0 +1,14 @@
+SPONDİLYOZ	is.;
+SPONDİLİT	is.;
+SPONSOR	is.;
+SPONSORLUQ	is.;
+SPONTAN	sif.;
+SPOR	is.;
+SPORLU	sif.;
+SPOROFİL	is.;
+SPOROFİT	is.;
+SPORT	sif.;
+SPORTPROQNOZ	is.;
+SPORTÇU	is.;
+SPORTÇULUQ	is.;
+SPORVERMƏ	f.;

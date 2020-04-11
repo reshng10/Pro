@@ -1,0 +1,14 @@
+HAF	is.;
+HAF-HAF	teq.;
+HAFILDA	f.;
+HAFILTI	is.;
+HAFİZ	is.;
+HAFİZLİK	is.;
+HAFİZSİZLİK	is.;
+HAFİZSİZLƏŞ	f.;
+HAFİZSİZLƏŞMƏ	f.;
+HAFİZƏ	is.;
+HAFİZƏLİ	sif.;
+HAFİZƏLİLİK	is.;
+HAFİZƏSİZ	sif.;
+HAFİZƏSİZLİK	is.;

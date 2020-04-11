@@ -1,0 +1,4 @@
+ÇOTUR	sif.;
+ÇOTURLAŞ	f.;
+ÇOTURLAŞDIR	f.;
+ÇOTURLAŞDIRIL	f.;

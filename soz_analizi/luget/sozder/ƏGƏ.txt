@@ -1,0 +1,6 @@
+ƏGƏR	ba.;
+ƏGƏR	is.;
+ƏGƏR-MƏGƏR	is.;
+ƏGƏR-ƏSKİK	is.;
+ƏGƏR-ƏSKİKLİK	is.;
+ƏGƏRÇİ	ba.;

@@ -1,0 +1,13 @@
+İPLİK	f.;is.;
+İPLİKBƏND	is.;
+İPLİKLİ	sif.;
+İPLİKLƏN	f.;
+İPLİKLƏNMƏ	f.;
+İPLİKSARIYAN	is.;
+İPLİKXANA	is.;
+İPLİKƏYİRƏN	is.;
+İPLƏ	f.;
+İPLƏMƏ	f_is.;
+İPLƏMƏK	f.;
+İPLƏN	f.;
+İPLƏNMƏ	f.;

@@ -1,0 +1,10 @@
+SÖHBƏT	is.;
+SÖHBƏTARASI	zer.;
+SÖHBƏTCİL	sif.;
+SÖHBƏTCİLLİK	is.;
+SÖHBƏTDAŞ	is.;
+SÖHBƏTLİ	sif.;
+SÖHBƏTLƏŞ	f.;
+SÖHBƏTLƏŞMƏ	f.;
+SÖHBƏTÇİ	is.;
+SÖHBƏTÇİLİK	is.;

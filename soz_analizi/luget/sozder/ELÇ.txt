@@ -1,0 +1,5 @@
+ELÇİ	is.;
+ELÇİLİK	is.;
+ELÇİLƏ	f.;
+ELÇİLƏMƏ	f_is.;
+ELÇİLƏMƏK	f.;

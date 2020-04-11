@@ -1,0 +1,6 @@
+ONYAŞ	is.;
+ONYAŞAR	sif.;
+ONYAŞLI	sif.;
+ONYEDDİMƏRTƏBƏ	is.;
+ONYEDDİMƏRTƏBƏLİ	sif.;
+ONYERLİ	sif.;

@@ -1,0 +1,8 @@
+URVA	is.;
+URVALIQ	is.;sif.;
+URVASIZ	sif.;
+URVAT	is.;
+URVATLI	sif.;
+URVATLILIQ	is.;
+URVATSIZ	sif.;
+URVATSIZLIQ	is.;

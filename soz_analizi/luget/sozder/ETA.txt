@@ -1,0 +1,8 @@
+ETAJER	is.;
+ETALON	is.;
+ETALONLAŞDIR	f.;
+ETALONLAŞDIRIL	f.;
+ETAN-BUTAN	is.;
+ETANOL	is.;
+ETAP	is.;
+ETATİZM	is.;

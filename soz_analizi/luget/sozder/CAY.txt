@@ -1,0 +1,9 @@
+CAY	f.;
+CAYDAQ	sif.;
+CAYDAQLAN	f.;
+CAYDAQLAŞ	f.;
+CAYNAQ	is.;
+CAYNAQLAMAQ	f.;
+CAYNAQLAŞMAQ	f.;
+CAYNAQLI	sif.;
+CAYNAQSIZ	sif.;

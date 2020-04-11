@@ -1,0 +1,15 @@
+SƏCCADƏ	is.;
+SƏCDƏ	is.;
+SƏCDƏGAH	is.;
+SƏCLİ	sif.;
+SƏCİYYƏ	is.;
+SƏCİYYƏLƏN	f.;
+SƏCİYYƏLƏNDİR	f.;
+SƏCİYYƏLƏNDİRMƏ	f_is.;
+SƏCİYYƏLƏNDİRMƏK	f.;
+SƏCİYYƏLƏNDİRİL	f.;
+SƏCİYYƏLƏNDİRİLMƏ	f.;
+SƏCİYYƏLƏNMƏ	f.;is.;
+SƏCİYYƏLƏNMƏK	f.;
+SƏCİYYƏVİ	sif.;
+SƏCİYYƏVİLİK	is.;

@@ -1,0 +1,17 @@
+ARZU	is.;
+ARZU-KAM	is.;
+ARZU-XƏYAL	is.;
+ARZU-ƏMƏL	is.;
+ARZUEDİLMƏZ	sif.;
+ARZUEDİLMƏZLİK	is.;
+ARZUEDİLƏN	sif.;
+ARZUKEŞ	sif.;
+ARZULA	f.;
+ARZULAMAQ	f.;
+ARZULAN	f.;
+ARZULANMAQ	f.;
+ARZULU	sif.;
+ARZUMAN	f.;is.;
+ARZUMƏND	is.;
+ARZUOLUNMAZ	sif.;
+ARZUSUZ	sif.;

@@ -1,0 +1,5 @@
+İTKİ	is.;
+İTKİN	sif.;
+İTKİNLİK	is.;
+İTKİSİZ	zer.;
+İTKİSİZLİK	is.;

@@ -1,0 +1,8 @@
+SİĞƏ	is.;
+SİĞƏBAZ	sif.;
+SİĞƏBAZLIQ	is.;
+SİĞƏLİ	sif.;
+SİĞƏLƏ	f.;
+SİĞƏLƏMƏ	f.;
+SİĞƏLƏN	f.;
+SİĞƏLƏNMƏ	f.;

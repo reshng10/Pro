@@ -1,0 +1,3 @@
+SMETA	is.;
+SMETAN	is.;
+SMETAÇI	is.;

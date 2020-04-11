@@ -1,0 +1,17 @@
+ƏYAL	is.;
+ƏYALƏT	is.;
+ƏYALƏTÇİLİK	is.;
+ƏYAN	sif.;
+ƏYAN	top.;
+ƏYANLIQ	is.;
+ƏYANİ	sif.;
+ƏYANİLİK	is.;
+ƏYANİLƏŞDİR	f.;
+ƏYANİLƏŞDİRMƏ	f.;
+ƏYANİLƏŞDİRİCİ	sif.;
+ƏYANİLƏŞDİRİL	f.;
+ƏYANİLƏŞDİRİLMƏ	f.;
+ƏYANİSİZ	sif.;
+ƏYAR	is.;
+ƏYARQABI	is.;
+ƏYARVURAN	is.;

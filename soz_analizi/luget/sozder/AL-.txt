@@ -1,0 +1,5 @@
+AL-NARINCI	sif.;
+AL-QAN	is.;
+AL-QIRMIZI	sif.;
+AL-YAŞIL	is.;
+AL-ƏLVAN	sif.;

@@ -1,0 +1,4 @@
+AZ-AZ	sif.;
+AZ-AZACIQ	sif.;
+AZ-MAZ	zer.;
+AZ-ÇOX	zer.;

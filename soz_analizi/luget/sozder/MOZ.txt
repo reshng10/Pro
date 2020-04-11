@@ -1,0 +1,8 @@
+MOZALAN	is.;
+MOZAZAVR	is.;
+MOZAİK	sif.;
+MOZAİKA	is.;
+MOZAİKALI	sif.;
+MOZAİKAVARI	sif.;
+MOZAİKAÇI	is.;
+MOZAİST	is.;

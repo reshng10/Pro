@@ -1,0 +1,15 @@
+BERET	is.;
+BERETLİ	sif.;
+BEREZİT	is.;
+BERKAMOT	is.;
+BERKUT	is.;
+BERMUDLU	sif.;
+BERNŞTEYNÇİ	is.;
+BERNŞTEYNÇİLİK	is.;
+BERTOLE	is.;
+BERTOLLİD	is.;
+BERİLLOMETR	is.;
+BERİLLİUM	is.;
+BERİLLİUM-SULFAT	is.;
+BERİLLİUMLA	is.;
+BERİLLİUMLAMA	is.;

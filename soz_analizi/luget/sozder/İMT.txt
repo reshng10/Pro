@@ -1,0 +1,16 @@
+İMTAHAN	is.;
+İMTAHAN-YOXLAMA	is.;
+İMTAHANEDİCİ	sif.;
+İMTAHANGÖTÜRƏN	is.;
+İMTAHANQABAĞI	sif.;
+İMTAHANSIZ	zer.;
+İMTAHANVERƏN	is.;
+İMTAHANÇI	is.;
+İMTİYAZ	is.;
+İMTİYAZLI	sif.;
+İMTİYAZLILIQ	is.;
+İMTİYAZNAMƏ	is.;
+İMTİYAZSIZ	sif.;
+İMTİYAZSIZLIQ	is.;
+İMTİYAZÇI	is.;
+İMTİYAZÇILIQ	is.;

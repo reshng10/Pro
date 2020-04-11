@@ -1,0 +1,10 @@
+CAR	sif.;
+CAR-CAR	zer.;
+CARILTI	is.;
+CARLA	f.;
+CARLAMAQ	f.;
+CARÇI	is.;
+CARÇILIQ	is.;
+CARİ	sif.;
+CARİYƏ	is.;
+CARİYƏLİK	is.;

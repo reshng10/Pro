@@ -1,0 +1,10 @@
+ŞƏMATƏT	is.;
+ŞƏMS	is.;
+ŞƏMS-QƏMƏR	is.;
+ŞƏMSİ-QƏMƏR	is.;
+ŞƏMSİYYƏ	is.;
+ŞƏMSİYYƏT	is.;
+ŞƏMŞİR	is.;
+ŞƏMŞİRBAZ	sif.;
+ŞƏMŞİRBAZLIQ	is.;
+ŞƏMŞİRDAR	sif.;

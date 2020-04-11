@@ -1,0 +1,8 @@
+LƏYAQƏT	is.;
+LƏYAQƏTLİ	sif.;
+LƏYAQƏTLİLİK	is.;
+LƏYAQƏTSİZ	sif.;
+LƏYAQƏTSİZLİK	is.;
+LƏYƏN	is.;
+LƏYƏNCİK	is.;
+LƏYƏNÇƏ	is.;

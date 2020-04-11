@@ -1,0 +1,13 @@
+CAZ	is.;
+CAZ-BAND	is.;
+CAZ-KAFE	is.;
+CAZ-ORKESTR	is.;
+CAZMEN	is.;
+CAZVARI	sif.;
+CAZİBƏ	is.;
+CAZİBƏDAR	sif.;
+CAZİBƏDARLIQ	is.;
+CAZİBƏLİ	sif.;
+CAZİBƏLİLİK	is.;
+CAZİBƏSİZ	sif.;
+CAZİBƏSİZLİK	is.;

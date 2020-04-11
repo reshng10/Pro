@@ -1,0 +1,3 @@
+ŞOFER	is.;
+ŞOFER-EKSPEDİTOR	is.;
+ŞOFERLİK	is.;

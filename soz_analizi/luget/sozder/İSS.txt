@@ -1,0 +1,4 @@
+İSSIZ	sif.;
+İSSIZCA	sif.;
+İSSIZLIQ	is.;
+İSSİLIQ	is.;

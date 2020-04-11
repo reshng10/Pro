@@ -1,0 +1,5 @@
+EHRAM	is.;
+EHRAM	is.;
+EHRAMVARI	sif.;
+EHRAMVARILIQ	is.;
+EHRAR	is.;

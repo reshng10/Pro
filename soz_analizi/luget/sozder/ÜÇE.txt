@@ -1,0 +1,5 @@
+ÜÇELEKTRODLU	sif.;
+ÜÇELEMENTLİ	sif.;
+ÜÇERKƏKCİKLİ	sif.;
+ÜÇEVLİ	sif.;
+ÜÇEVLİLİK	is.;

@@ -1,0 +1,17 @@
+MİTOGENETİK	sif.;
+MİTOZ	is.;
+MİTOZARASI	sif.;
+MİTQAL	is.;
+MİTRA	is.;
+MİTRALYOZ	is.;
+MİTRALYOZÇU	is.;
+MİTROPOLİT	is.;
+MİTTELŞPİL	is.;
+MİTİL	is.;sif.;
+MİTİL-ŞİTİL	is.;sif.;
+MİTİLLİK	is.;sif.;
+MİTİLLƏŞMƏ	is.;sif.;
+MİTİLLƏŞMƏK	f.;
+MİTİNQ	is.;sif.;
+MİTİNQ-KONSERT	is.;
+MİTİNQVARI	sif.;

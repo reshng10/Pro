@@ -1,0 +1,14 @@
+ŞİMAL	is.;
+ŞİMAL-CƏNUB	is.;
+ŞİMAL-QƏRB	is.;
+ŞİMAL-QƏRBİ	sif.;
+ŞİMAL-ŞƏRQ	is.;
+ŞİMAL-ŞƏRQİ	sif.;
+ŞİMALLI	sif.;
+ŞİMALMORUĞU	is.;
+ŞİMALTÜLKÜSÜ	is.;
+ŞİMALİ	sif.;
+ŞİMPANZE	is.;
+ŞİMŞİRƏKLİ	sif.;
+ŞİMŞƏK	is.;
+ŞİMŞƏKLİ	sif.;

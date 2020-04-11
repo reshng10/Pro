@@ -1,0 +1,5 @@
+ÜNVAN	is.;
+ÜNVAN-SORĞU	is.;
+ÜNVAN-TƏQVİM	is.;
+ÜNVANLANDIR	f.;
+ÜNVANLI	sif.;

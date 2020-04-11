@@ -1,0 +1,4 @@
+RİSALƏ	is.;
+RİSKLİ	sif.;
+RİSKLİLİK	is.;
+RİSKSİZ	sif.;

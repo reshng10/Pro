@@ -1,0 +1,9 @@
+URA	is.;
+URAN	is.;
+URAN-QRAFİT	is.;
+URANLI	is.;
+URANOQRAFİYA	is.;
+URANOSKOP	is.;
+URANİL-HİDROFOSFAT	is.;
+URANİL-NİTRAT	is.;
+URANİL-XLORİD	is.;

@@ -1,0 +1,6 @@
+TUF	is.;
+TUFAN	is.;
+TUFANLI	sif.;
+TUFANLILIQ	is.;
+TUFANSIZ	sif.;
+TUFLİ	is.;

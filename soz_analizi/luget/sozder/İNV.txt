@@ -1,0 +1,8 @@
+İNVALİD	f.;is.;sif.;
+İNVAR	is.;
+İNVARİANT	is.;
+İNVARİANTLIQ	is.;
+İNVENTARLAŞDIR	f.;
+İNVENTARLAŞDIRIL	f.;
+İNVERSİYALI	sif.;
+İNVESTİSİYA	is.;

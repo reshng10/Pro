@@ -1,0 +1,8 @@
+GƏYAN	sif.;
+GƏYİR	f.;
+GƏYİRMƏ	f_is.;
+GƏYİRMƏK	f.;
+GƏYİRTİ	is.;
+GƏYİRİK	f_is.;
+GƏYİŞ	f.;
+GƏYİŞMƏ	f.;

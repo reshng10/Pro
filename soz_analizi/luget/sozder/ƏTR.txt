@@ -1,0 +1,10 @@
+ƏTRAF	is.;
+ƏTRAFLI	sif.;
+ƏTRAFLICA	zer.;
+ƏTRAFLILIQ	is.;
+ƏTRAK	is.;
+ƏTRİYYAT	is.;
+ƏTRİYYAT-KOSMETİKA	is.;
+ƏTRİYYATÇI	is.;
+ƏTRİYYATÇILIQ	is.;
+ƏTRƏNGİ	sif.;

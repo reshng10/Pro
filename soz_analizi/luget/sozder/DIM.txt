@@ -1,0 +1,6 @@
+DIMBILI	sif.;
+DIMBIR	is.;
+DIMIQ	is.;
+DIMIRCIQ	is.;
+DIMIRCIQLI	sif.;
+DIMIRIQ	is.;

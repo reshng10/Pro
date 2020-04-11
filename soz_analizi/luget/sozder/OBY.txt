@@ -1,0 +1,10 @@
+OBYEKT	is.;
+OBYEKTDAXİLİ	sif.;
+OBYEKTİV	is.;
+OBYEKTİV	sif.;
+OBYEKTİVCƏ	zer.;
+OBYEKTİVCƏSİNƏ	zer.;
+OBYEKTİVLİK	is.;
+OBYEKTİVLƏŞDİR	f.;
+OBYEKTİVLƏŞDİRMƏ	f.;
+OBYEKTİVİZM	is.;

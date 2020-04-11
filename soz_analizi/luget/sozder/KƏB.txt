@@ -1,0 +1,13 @@
+KƏBLEYİ	is.;
+KƏBUTƏR	is.;
+KƏBİN	is.;
+KƏBİN-NİKAH	is.;
+KƏBİN-TALAQ	is.;
+KƏBİNKƏSMƏ	is.;
+KƏBİNLİ	sif.;
+KƏBİNLİLİK	is.;
+KƏBİNSİZ	sif.;
+KƏBİNSİZLİK	is.;
+KƏBİR	sif.;
+KƏBİRLİ	sif.;
+KƏBƏ	is.;

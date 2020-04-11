@@ -1,0 +1,17 @@
+İFRAQ	is.;
+İFRAT	f.;is.;sif.;
+İFRATGÜCLÜ	sif.;
+İFRATTƏNZİMLƏMƏ	is.;
+İFRATYÜKLÜ	sif.;
+İFRATYÜKLƏMƏ	is.;
+İFRATÇI	is.;
+İFRATÇILIQ	is.;
+İFRAZ	is.;
+İFRAZAT	is.;
+İFRAZEDİCİ	sif.;
+İFRAZETDİRİCİ	sif.;
+İFRAZETMƏ	is.;
+İFRİT	is.;
+İFRİTCƏSİNƏ	zer.;
+İFRİTƏ	f.;is.;sif.;
+İFRİTƏLİK	is.;

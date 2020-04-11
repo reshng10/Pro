@@ -1,0 +1,4 @@
+AÇDIR	f.;
+AÇDIRIL	f.;
+AÇDIRMAQ	f.;
+AÇDIRT	f.;

@@ -1,0 +1,13 @@
+VOLEYBOL	is.;
+VOLEYBOLÇU	is.;
+VOLFRAMLI	sif.;
+VOLT	is.;
+VOLTA	is.;
+VOLTERÇİ	is.;
+VOLTERÇİLİK	is.;
+VOLTLU	sif.;
+VOLTLUQ	is.;
+VOLTMETR-AMPERMETR	is.;
+VOLTMETROQRAF	is.;
+VOLYER	is.;
+VOLYUTA	is.;

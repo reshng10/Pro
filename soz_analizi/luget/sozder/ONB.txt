@@ -1,0 +1,17 @@
+ONBAŞI	is.;
+ONBAŞILIQ	is.;
+ONBAŞLIQ	is.;
+ONBEŞGÜNLÜK	sif.;
+ONBEŞLİK	is.;
+ONBEŞQƏPİKLİK	sif.;
+ONBEŞTONLUQ	sif.;
+ONBUCAQ	is.;
+ONBUCAQ(LI)	is.;sif.;
+ONBUCAQLI	sif.;
+ONBİRLİK	is.;
+ONBİRMETRLİK	sif.;
+ONBİRMƏRTƏBƏ	is.;
+ONBİRMƏRTƏBƏLİ	sif.;
+ONBİROTAQLI	sif.;
+ONBİRİLLİK	is.;
+ONBİRİNCİ	say;

@@ -1,0 +1,12 @@
+QOBELEN	is.;
+QOBOY	is.;
+QOBOYÇALAN	is.;
+QOBOYÇU	is.;
+QOBU	is.;
+QOBUR	is.;
+QOBURLU	sif.;
+QOBURSUZ	sif.;
+QOBUSTAN	is.;
+QOBUSTANŞÜNAS	is.;
+QOBUSTANŞÜNASLIQ	is.;
+QOBUZ	is.;

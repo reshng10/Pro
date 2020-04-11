@@ -1,0 +1,9 @@
+QƏPİK	is.;
+QƏPİK-QURUŞ	is.;
+QƏPİK-QƏPİK	zer.;
+QƏPİKCİL	sif.;
+QƏPİKGÜDƏN	sif.;
+QƏPİKLİK	is.;
+QƏPİKOTU	is.;
+QƏPİKPƏRƏST	sif.;
+QƏPİKPƏRƏSTLİK	is.;

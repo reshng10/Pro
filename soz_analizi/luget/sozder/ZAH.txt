@@ -1,0 +1,15 @@
+ZAHI	is.;
+ZAHILIQ	is.;
+ZAHİD	is.;
+ZAHİDANƏ	zer.;
+ZAHİDCƏSİNƏ	zer.;
+ZAHİDLİK	is.;
+ZAHİDVAR	zer.;
+ZAHİR	is.;
+ZAHİR-BATİN	is.;
+ZAHİRDƏ	zer.;
+ZAHİRPƏRƏST	sif.;
+ZAHİRPƏRƏSTLİK	is.;
+ZAHİRİ	sif.;
+ZAHİRİLİK	is.;
+ZAHİRƏN	zer.;

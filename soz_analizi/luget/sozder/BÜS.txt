@@ -1,0 +1,6 @@
+BÜSAT	is.;
+BÜSATLI	sif.;
+BÜSBÜTÜN	zer.;
+BÜST	is.;
+BÜST-MONUMENT	is.;
+BÜST-PORTRET	is.;

@@ -1,0 +1,11 @@
+NOT	is.;
+NOTA	is.;
+NOTARİAL	sif.;
+NOTARİAT	is.;
+NOTARİUS	is.;
+NOTARİUSLUQ	sif.;
+NOTLAŞDIR	f.;
+NOTLU	sif.;
+NOTOQRAFİK	sif.;
+NOTOQRAFİYA	is.;
+NOTSUZ	sif.;zer.;

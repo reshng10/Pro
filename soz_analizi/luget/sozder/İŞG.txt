@@ -1,0 +1,17 @@
+İŞGÖRMƏ	is.;
+İŞGÜZAR	zer.;sif.;
+İŞGÜZARLIQ	is.;
+İŞGİL	is.;
+İŞGİL	is.;
+İŞGİLBAZ	sif.;
+İŞGİLBAZLIQ	is.;
+İŞGİLLİ	sif.;
+İŞGİLLİ	sif.;
+İŞGİLLƏ	f.;
+İŞGİLLƏMƏ	f_is.;
+İŞGİLLƏMƏ	f_is.;
+İŞGİLLƏMƏK	f.;
+İŞGİLLƏMƏK	f.;
+İŞGƏNCƏ	is.;
+İŞGƏNCƏLİ	sif.;
+İŞGƏNƏ	is.;

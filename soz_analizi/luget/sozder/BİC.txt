@@ -1,0 +1,14 @@
+BİC	is.;
+BİC	sif.;
+BİC-BİC	zer.;
+BİC-VƏLƏDÜZZİNA	is.;
+BİCA	sif.;zer.;
+BİCA-BİCA	is.;
+BİCAN	is.;
+BİCLİK	is.;
+BİCLƏŞ	f.;
+BİCLƏŞMƏ	f.;
+BİCLƏŞMƏK	f.;
+BİCƏK	is.;
+BİCƏNGƏ(NƏ)	sif.;
+BİCƏNGƏNƏ	is.;

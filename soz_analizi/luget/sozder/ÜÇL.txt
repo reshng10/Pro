@@ -1,0 +1,15 @@
+ÜÇLAYLI	sif.;
+ÜÇLÜ	sif.;
+ÜÇLÜK	is.;sif.;
+ÜÇLÜKDƏ	zer.;
+ÜÇLÜLƏ	is.;
+ÜÇLÜLƏLİ	sif.;
+ÜÇLƏ	f.;
+ÜÇLƏMƏ	f.;
+ÜÇLƏMƏK	f.;
+ÜÇLƏN	f.;
+ÜÇLƏNMƏ	f.;
+ÜÇLƏT	f.;
+ÜÇLƏTMƏ	f.;
+ÜÇLƏŞ	f.;
+ÜÇLƏŞMƏ	f.;

@@ -1,0 +1,8 @@
+VƏKALƏT	is.;
+VƏKALƏTLİ	sif.;
+VƏKALƏTNAMƏ	ed.;is.;
+VƏKALƏTSİZ	sif.;
+VƏKALƏTƏN	zer.;
+VƏKİL	is.;
+VƏKİLBAŞI	sif.;
+VƏKİLLİK	is.;

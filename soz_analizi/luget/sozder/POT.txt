@@ -1,0 +1,17 @@
+POTA	is.;
+POTABOY	sif.;
+POTABOY(LU)	is.;sif.;
+POTABOYLU	sif.;
+POTALIQ	is.;
+POTAŞ	is.; 
+POTAŞLI	sif.;
+POTENSİAL	is.;
+POTENSİAL-İMKAN	is.;
+POTENSİALLI	sif.;
+POTENSİALLIQ	is.;
+POTENSİALOSKOP	is.;
+POTENSİOMETR	is.;
+POTENSİOMETRİK	sif.;
+POTENSİOMETRİYA	is.;
+POTENSİYA	is.;
+POTUŞ	sif.;

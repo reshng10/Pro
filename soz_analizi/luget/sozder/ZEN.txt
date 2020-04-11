@@ -1,0 +1,8 @@
+ZENKER	is.;
+ZENİT	is.;
+ZENİT-ARTİLLERİYA	is.;
+ZENİT-RAKET	is.;
+ZENİT-TELESKOP	is.;
+ZENİTÇİ	is.;
+ZENİTÇİLİK	is.;
+ZENİTƏTRAFI	sif.;

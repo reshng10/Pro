@@ -1,0 +1,9 @@
+QİSAS	is.;
+QİSASÇI	is.;
+QİSASÇILIQ	is.;
+QİSMƏN	zer.;
+QİSMƏT	is.;
+QİSSƏ	is.;
+QİSVƏT	is.;
+QİSİM	is.;
+QİSİM-QİSİM	zer.;

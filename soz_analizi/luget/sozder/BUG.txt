@@ -1,0 +1,5 @@
+BUGECƏKİ	sif.;
+BUGÜN-SABAH	zer.;
+BUGÜN-YARIN	zer.;
+BUGÜNKÜ	sif.;
+BUGÜNLÜK	sif.;

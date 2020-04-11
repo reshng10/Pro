@@ -1,0 +1,9 @@
+RİQQƏT	is.;
+RİQQƏTLİ	sif.;
+RİQQƏTLƏ	zer.;
+RİQQƏTLƏN	f_sif.;
+RİQQƏTLƏNDİR	f_sif.;
+RİQQƏTLƏNDİRMƏ	f_is.;
+RİQQƏTLƏNDİRMƏK	f.;
+RİQQƏTLƏNMƏ	f_is.;
+RİQQƏTLƏNMƏK	f.;

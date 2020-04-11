@@ -1,0 +1,9 @@
+ZABİL	is.;
+ZABİT	is.;
+ZABİTLİK	is.;
+ZABİTƏ	is.;
+ZABİTƏLİ	sif.;
+ZABİTƏLİK	is.;
+ZABİTƏLİLİK	is.;
+ZABİTƏSİZ	sif.;
+ZABİTƏSİZLİK	is.;

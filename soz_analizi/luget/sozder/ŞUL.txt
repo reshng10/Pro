@@ -1,0 +1,6 @@
+ŞULUM	sif.;
+ŞULUMLUQ	is.;
+ŞULUQ	sif.;
+ŞULUQLUQ	is.;
+ŞULUQÇU	f.;is.;sif.;
+ŞULUQÇULUQ	is.;

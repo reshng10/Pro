@@ -1,0 +1,8 @@
+VIZ	teq.;
+VIZ-VIZ	teq.;
+VIZILDA	f.;
+VIZILDAMAQ	is.;
+VIZILDAT	f.;
+VIZILDAŞ	f.;
+VIZILDAŞMAQ	f.;
+VIZILTI	teq.;

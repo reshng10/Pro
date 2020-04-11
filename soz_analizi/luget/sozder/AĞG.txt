@@ -1,0 +1,11 @@
+AĞGÖVDƏ	is.;
+AĞGÖVDƏLİ	sif.;
+AĞGÖZ	sif.;
+AĞGÖZCÜK	is.;
+AĞGÖZLÜK	is.;
+AĞGÖZLÜLÜK	is.;
+AĞGÜN	is.;
+AĞGÜN(LÜ)	sif.;
+AĞGÜNLÜ	sif.;
+AĞGÜNLÜLÜK	is.;
+AĞGİLƏ	is.;

@@ -1,0 +1,8 @@
+HÖYÜŞ	f.;is.;sif.;
+HÖYÜŞ	sif.;
+HÖYÜŞLÜ	sif.;
+HÖYÜŞLƏN	f.;
+HÖYÜŞLƏNMƏ	f_is.;
+HÖYÜŞLƏNMƏK	f.;
+HÖYÜŞLƏT	f.;
+HÖYÜŞLƏTMƏ	f.;

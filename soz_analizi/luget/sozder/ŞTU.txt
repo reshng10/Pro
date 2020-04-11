@@ -1,0 +1,4 @@
+ŞTURMAN	is.;
+ŞTURMANLIQ	is.;
+ŞTURVAL	is.;
+ŞTUSER	is.;

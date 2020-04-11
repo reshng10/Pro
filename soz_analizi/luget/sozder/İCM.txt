@@ -1,0 +1,8 @@
+İCMA	is.;
+İCMAARASI	sif.;
+İCMAL	is.;
+İCMALARARASI	sif.;
+İCMALIQ	is.;
+İCMALÇI	is.;
+İCMALÇILIQ	is.;
+İCMALƏN	zer.;

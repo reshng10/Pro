@@ -1,0 +1,14 @@
+AŞAFATMA	is.;
+AŞALTI	is.;
+AŞALTILIQ	is.;
+AŞANTİLƏR	is.;
+AŞAĞI	zer.;
+AŞAĞI-YUXARI	zer.;
+AŞAĞIBAŞ	is.;
+AŞAĞIBAŞLI	sif.;
+AŞAĞILAT	f.;
+AŞAĞILATMAQ	f.;
+AŞAĞIMOLEKULYAR	is.;
+AŞAĞITƏZYİQLİ	sif.;
+AŞAĞIVALENTLİ	sif.;
+AŞAĞIVOLTLU	sif.;

@@ -1,0 +1,8 @@
+UYAR	f.;
+UYARLA	f.;
+UYARLAŞ	f.;
+UYARLI	sif.;
+UYARLILIQ	is.;
+UYARLIQ	is.;
+UYARSIZ	sif.;
+UYARSIZLIQ	is.;

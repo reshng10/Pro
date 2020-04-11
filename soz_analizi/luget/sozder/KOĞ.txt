@@ -1,0 +1,5 @@
+KOĞA	is.;
+KOĞAR	is.;
+KOĞUŞ	is.;
+KOĞUŞLAN	f.;
+KOĞUŞLU	sif.;

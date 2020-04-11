@@ -1,0 +1,6 @@
+İÇDİR	f.;
+İÇDİRMƏ	f_is.;
+İÇDİRMƏK	f.;
+İÇDİRİL	f.;
+İÇDİRİLMƏ	f_is.;
+İÇDİRİLMƏK	icb.;

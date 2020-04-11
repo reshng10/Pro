@@ -1,0 +1,10 @@
+NÜFUS	is.;
+NÜFUZ	is.;
+NÜFUZEDİCİ	sif.;
+NÜFUZEDİCİLİK	is.;
+NÜFUZEDƏN	sif.;
+NÜFUZETMƏ	is.;
+NÜFUZLU	sif.;
+NÜFUZLULUQ	is.;
+NÜFUZSUZ	sif.;
+NÜFUZSUZLUQ	is.;

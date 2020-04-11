@@ -1,0 +1,11 @@
+LOV	is.;
+LOVLU	sif.;zer.;
+LOVĞA	sif.;zer.;
+LOVĞA-LOVĞA	zer.;
+LOVĞALAN	f.;
+LOVĞALANA-LOVĞALANA	zer.;
+LOVĞALANMAQ	is.;
+LOVĞALAŞ	f.;
+LOVĞALAŞMA	is.;
+LOVĞALAŞMAQ	f.;
+LOVĞALIQ	is.;

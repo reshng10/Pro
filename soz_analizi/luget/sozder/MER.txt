@@ -1,0 +1,13 @@
+MER	is.;
+MERAC	is.;
+MEREJKA	is.;
+MEREJKALI	sif.;
+MERKANTİLİST	is.;
+MERKANTİLİZM	is.;
+MERKAPTAN	is.;
+MEROSTOMLU	sif.;
+MERSERİZASİYA	is.;
+MERİDİAN	is.;
+MERİDİONAL	sif.;
+MERİNOS	is.;
+MERİYA	is.;

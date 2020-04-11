@@ -1,0 +1,6 @@
+ONLAR	ev.;
+ONLARCA	say;
+ONLARINKI	sif.;
+ONLARLA	say;
+ONLUQ	is.;
+ONLİTRLİK	say;

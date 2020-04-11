@@ -1,0 +1,8 @@
+ADSIZ	sif.;
+ADSIZ-SANSIZ	sif.;
+ADSIZLIQ	is.;
+ADSORBENT	is.;
+ADSORBER	is.;
+ADSORBSİYA	is.;
+ADSORBSİYAEDİCİ	is.;
+ADSTRAT	is.;

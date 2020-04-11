@@ -1,0 +1,11 @@
+ÇADIR	is.;
+ÇADIRLI	sif.;
+ÇADIRLIQ	is.;
+ÇADIRVARI	sif.;
+ÇADIRÇI	is.;
+ÇADRA	is.;
+ÇADRA-ÇARŞAB	is.;
+ÇADRALAN	f.;
+ÇADRALI	sif.;
+ÇADRASIZ	sif.;
+ÇADRASIZLIQ	is.;

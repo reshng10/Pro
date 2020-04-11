@@ -1,0 +1,5 @@
+XOV	is.;
+XOVLAMA	f_is.;
+XOVLAMAQ	f.;
+XOVLU	sif.;
+XOVSUZ	sif.;

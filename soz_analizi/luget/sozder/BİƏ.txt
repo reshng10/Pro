@@ -1,0 +1,13 @@
+BİƏDƏB	sif.;
+BİƏDƏBLİK	is.;
+BİƏLAC	sif.;
+BİƏLACLIQ	is.;
+BİƏMƏL	sif.;
+BİƏNCAM	sif.;
+BİƏNDAZƏ	sif.;
+BİƏNDAZƏLİK	is.;
+BİƏQL	sif.;
+BİƏSİL	sif.;
+BİƏSİLLİK	is.;
+BİƏVƏZ	is.;
+BİƏVƏZLİK	is.;

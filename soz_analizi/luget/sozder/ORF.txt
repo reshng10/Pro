@@ -1,0 +1,6 @@
+ORFOEPİK	sif.;
+ORFOEPİYA	is.;
+ORFOQRAF	is.;
+ORFOQRAFİK	sif.;
+ORFOQRAFİK-QRAMMATİK	sif.;
+ORFOQRAFİYA	is.;

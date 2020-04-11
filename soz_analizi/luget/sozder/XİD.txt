@@ -1,0 +1,12 @@
+XİDMƏT	is.;
+XİDMƏTAPARMA	is.;
+XİDMƏTEDİCİ	sif.;
+XİDMƏTETMƏ	f.;
+XİDMƏTGƏR	sif.;
+XİDMƏTGƏRLİK	is.;
+XİDMƏTKAR	is.;
+XİDMƏTKARLIQ	is.;
+XİDMƏTSEVƏN	sif.;
+XİDMƏTÇİ	is.;
+XİDMƏTÇİLİK	is.;
+XİDMƏTİ	sif.;

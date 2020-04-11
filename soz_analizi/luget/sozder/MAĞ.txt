@@ -1,0 +1,11 @@
+MAĞAR	is.;
+MAĞARA	is.;
+MAĞARA	is.;
+MAĞARALARARASI	sif.;
+MAĞARAQABAĞI	sif.;
+MAĞAZA	is.;
+MAĞAZA-SALON	is.;
+MAĞAZALI	sif.;
+MAĞAZAÇI	is.;
+MAĞAZAÇILIQ	is.;
+MAĞUL	is.;

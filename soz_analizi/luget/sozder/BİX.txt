@@ -1,0 +1,9 @@
+BİXAB	sif.;
+BİXABLIQ	is.;
+BİXANİMAN	sif.;
+BİXROMAT	is.;
+BİXƏBƏR	sif.;zer.;
+BİXƏTƏR	sif.;
+BİXƏTƏRLİK	is.;
+BİXƏYAL	sif.;
+BİXƏYANƏT	is.;

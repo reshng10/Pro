@@ -1,0 +1,7 @@
+İŞBACARAN	sif.;
+İŞBAZ	is.;
+İŞBAZLIQ	is.;
+İŞBURAXAN	is.;
+İŞBÖLƏN	is.;
+İŞBİLƏN	sif.;
+İŞBİRLİYİ	is.;

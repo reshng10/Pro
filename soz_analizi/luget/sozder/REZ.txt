@@ -1,0 +1,14 @@
+REZERVASİYA	is.;
+REZERVUAR	is.;
+REZONATOR	is.;
+REZORSİN	is.;
+REZULTANT	is.;
+REZİDENSİYA	is.;
+REZİDENT-ƏLAQƏLƏNDİRİCİ	is.;
+REZİDENTLİK	is.;
+REZİN-TEXNİKİ	sif.;
+REZİNLİ	sif.;
+REZİNLƏNMİŞ	f_sif.;
+REZİNQARIŞDIRAN	is.;
+REZİNQARIŞDIRICI	is.;
+REZİNÇİ	is.;

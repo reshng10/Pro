@@ -1,0 +1,12 @@
+FABRİK	is.;
+FABRİK-CAMAŞIRXANA	is.;
+FABRİK-MƏTBƏX	is.;
+FABRİK-ZAVOD	is.;
+FABRİKANT	is.;
+FABRİKDAXİLİ	sif.;
+FABRİKLƏRARASI	sif.;
+FABRİKÇİ	is.;
+FABULA	is.;
+FABİ	is.;
+FABİÇİ	is.;
+FABİÇİLİK	is.;

@@ -1,0 +1,11 @@
+XƏCALƏT	is.;
+XƏCALƏTLİ	sif.;
+XƏCALƏTLİK	is.;
+XƏCALƏTLİLİK	is.;
+XƏCALƏTLƏN	f.;
+XƏCALƏTLƏNDİR	f.;
+XƏCALƏTLƏNDİRMƏ	f.;
+XƏCALƏTLƏNMƏ	f_is.;
+XƏCALƏTLƏNMƏK	f.;
+XƏCİLANƏ	zer.;
+XƏCİLLİK	is.;

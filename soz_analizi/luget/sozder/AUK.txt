@@ -1,0 +1,5 @@
+AUKSANOMETR	is.;
+AUKSOXROM	is.;
+AUKSİN	is.;
+AUKSİON	is.;
+AUKİT	is.;

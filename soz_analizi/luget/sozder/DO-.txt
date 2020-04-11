@@ -1,0 +1,2 @@
+DO-MAJOR	is.;
+DO-MİNOR	is.;

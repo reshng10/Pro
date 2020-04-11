@@ -1,0 +1,7 @@
+REJİMLİ	sif.;
+REJİSSOR-MULTİPLİKATOR	is.;
+REJİSSORLUQ	is.;
+REJİSSORLUQ	is.;
+REJİSSORSUZ	sif.;
+REJİSSURA	top.;
+REJİSSURA	top.;

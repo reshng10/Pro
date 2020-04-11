@@ -1,0 +1,12 @@
+FUT	is.;
+FUTBOLSEVƏR	is.;
+FUTBOLÇU	is.;
+FUTBOLÇULUQ	is.;
+FUTERLƏMƏ	f.;
+FUTERLƏNMİŞ	f_sif.;
+FUTERLƏNMƏ	f.;
+FUTERÇİ	is.;
+FUTUROLOGİYA	is.;
+FUTUROLOQ	is.;
+FUTURİSTİK	sif.;
+FUTZAL	is.;

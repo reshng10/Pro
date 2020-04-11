@@ -1,0 +1,14 @@
+DİQQƏT	is.;
+DİQQƏTCİL	sif.;
+DİQQƏTCİLLİK	is.;
+DİQQƏTLİ	sif.;
+DİQQƏTLİLİK	is.;
+DİQQƏTLƏ	zer.;
+DİQQƏTSİZ	sif.;
+DİQQƏTSİZCƏSİNƏ	zer.;
+DİQQƏTSİZLİK	is.;
+DİQQƏTÇƏKƏN	is.;
+DİQQƏTƏLAYİQ	sif.;
+DİQQƏTƏLAYİQLİK	is.;
+DİQQƏTƏŞAYAN	sif.;
+DİQQƏTƏŞAYANLIQ	is.;

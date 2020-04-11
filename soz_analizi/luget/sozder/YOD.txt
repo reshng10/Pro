@@ -1,0 +1,17 @@
+YOD	is.;
+YOD-BENZOL	is.;
+YOD-BROMİD	is.;
+YOD-ETAN	is.;
+YOD-METAN	is.;
+YOD-NİŞASTALI	sif.;
+YOD-XLORİD	is.;
+YODLA	f.;
+YODLAMAQ	f.;
+YODLAN	f.;
+YODLAT	f.;
+YODLU	sif.;
+YODOFORM	is.;
+YODOMETRİK	sif.;
+YODOMETRİYA	is.;
+YODSUZ	sif.;
+YODSUZLUQ	is.;

@@ -1,0 +1,10 @@
+AT-ARABA	is.;
+AT-AT	is.;
+AT-DƏVƏ	is.;
+AT-EŞŞƏK	is.;
+AT-FAYTON	is.;
+AT-HEYVAN	is.;
+AT-MAL	is.;
+AT-QATIR	is.;
+AT-ULAQ	is.;
+AT-ÖKÜZ	is.;

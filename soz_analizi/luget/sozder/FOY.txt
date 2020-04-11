@@ -1,0 +1,3 @@
+FOYE-TAMAŞA	is.;
+FOYELİ	sif.;
+FOYESİZ	sif.;

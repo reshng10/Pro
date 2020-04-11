@@ -1,0 +1,13 @@
+OXLA	f.;
+OXLAMAQ	f.;
+OXLAN	f.;
+OXLANMAQ	f.;
+OXLARARASI	sif.;
+OXLOV	is.;
+OXLOVLA	f.;
+OXLOVLAMAQ	f.;
+OXLOVÇU	is.;
+OXLU	sif.;
+OXLU-YARAQLI	sif.;
+OXLULUQ	is.;
+OXLUQ	is.;

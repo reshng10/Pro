@@ -1,0 +1,5 @@
+DOXSAN	say.;
+DOXSANCA	zer.;
+DOXSANINCI	say;
+DOXSANYAŞLI	sif.;
+DOXSANİLLİK	is.;

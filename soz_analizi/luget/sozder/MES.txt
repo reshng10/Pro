@@ -1,0 +1,7 @@
+MESAJ	is.;
+MESENAT	is.;
+MESENATLIQ	is.;
+MESSA	is.;
+MESSO	is.;
+MESSO-SOPRANO	is.;
+MESSO-TİNTO	is.;

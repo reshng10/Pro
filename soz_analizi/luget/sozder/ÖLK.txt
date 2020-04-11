@@ -1,0 +1,5 @@
+ÖLKƏ	is.;
+ÖLKƏDAŞ	is.;
+ÖLKƏLƏRARASI	sif.;
+ÖLKƏŞÜNAS	is.;
+ÖLKƏŞÜNASLIQ	is.;

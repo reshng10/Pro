@@ -1,0 +1,12 @@
+DIQ	teq.;
+DIQQAN	is.;
+DIQQAN(A)	zer.;
+DIQQAN(A)CIQ	sif.;
+DIQQANCIQ	is.;
+DIQQI	zer.;
+DIQQILDAN	f.;
+DIQQILDAT	f.;
+DIQQILDATMAQ	f.;
+DIQQILI	is.;
+DIQQILICA	zer.;
+DIQQILTI	is.;

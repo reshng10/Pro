@@ -1,0 +1,3 @@
+ORMAN	is.;
+ORMANLI	sif.;
+ORMANLIQ	sif.;

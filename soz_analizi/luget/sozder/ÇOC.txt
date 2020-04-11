@@ -1,0 +1,6 @@
+ÇOCUQ	is.;
+ÇOCUQCA	zer.;
+ÇOCUQCASINA	zer.;
+ÇOCUQCIĞAZ	is.;
+ÇOCUQLUQ	is.;
+ÇOCUQVARI	sif.;

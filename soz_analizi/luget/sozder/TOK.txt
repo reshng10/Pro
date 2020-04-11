@@ -1,0 +1,11 @@
+TOK-ŞOU	is.;
+TOKOLOGİYA	is.;
+TOKOLOJİ	sif.;
+TOKOLOQ	is.;
+TOKSEMİYA	is.;
+TOKSOPLAZMA	is.;
+TOKSOPLAZMOZ	is.;
+TOKSİK	sif.;
+TOKSİKOLOJİ	sif.;
+TOKSİKOMANİYA	is.;
+TOKSİN	is.;

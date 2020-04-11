@@ -1,0 +1,16 @@
+YÜZ	say.;
+YÜZ-YÜZ	zer.;
+YÜZBAŞI	is.;
+YÜZBAŞILIQ	is.;
+YÜZDƏBİR	say;
+YÜZLÜK	is.;sif.;
+YÜZLƏRCƏ	say;
+YÜZMANATLIQ	is.;
+YÜZTONLUQ	say;
+YÜZTOPLU	say;
+YÜZXANALI	say;
+YÜZXANALIQ	is.;
+YÜZYAŞLI	say;
+YÜZÜNCÜ	say.;
+YÜZİLDƏNBİR	zer.;
+YÜZİLLİK	is.;

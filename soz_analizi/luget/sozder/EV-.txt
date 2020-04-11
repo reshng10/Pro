@@ -1,0 +1,7 @@
+EV-EV	zer.;
+EV-EŞİK	is.;
+EV-MAKET	is.;
+EV-MUZEY	is.;
+EV-MƏTBƏX	is.;
+EV-OCAQ	is.;
+EV-İNTERNAT	is.;

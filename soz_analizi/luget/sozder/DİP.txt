@@ -1,0 +1,15 @@
+DİPDİRİ	sif.;
+DİPLODOK	is.;
+DİPLOM	ed.;
+DİPLOMANT	is.;
+DİPLOMAT	is.;
+DİPLOMATCASINA	zer.;
+DİPLOMATLIQ	is.;
+DİPLOMATVARI	zer.;
+DİPLOMATİK	sif.;
+DİPLOMATİYA	is.;
+DİPLOMLU	sif.;
+DİPLOMQABAĞI	is.;
+DİPLOMSUZ	sif.;
+DİPLOMÇU	is.;
+DİPOL	is.;

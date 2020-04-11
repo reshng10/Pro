@@ -1,0 +1,6 @@
+ÜSLUB	is.;
+ÜSLUBSUZLUQ	is.;
+ÜSLUBÇU	is.;
+ÜSLUBÇULUQ	is.;
+ÜSLUBİ	sif.;
+ÜSLUBİYYAT	is.;

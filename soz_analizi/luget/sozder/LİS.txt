@@ -1,0 +1,12 @@
+LİSAN	is.;
+LİSANÇI	is.;
+LİSANÇILIQ	is.;
+LİSANİYYAT	is.;
+LİSENSİAT	is.;
+LİSENZİYA	is.;
+LİSENZİYALI	sif.;
+LİSENZİYASIZ	sif.;
+LİSEY	is.;
+LİSTERELLYOZ	is.;
+LİSTERİOZ	is.;
+LİSTVENİT	is.;

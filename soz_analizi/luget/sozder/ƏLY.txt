@@ -1,0 +1,10 @@
+ƏLYAZISI	is.;
+ƏLYAZMA	is.;
+ƏLYAZMA(SI)	is.;
+ƏLYAZMASI	is.;
+ƏLYAZMAŞÜNAS	is.;
+ƏLYAZMAŞÜNASLIQ	is.;
+ƏLYETMƏZ	sif.;
+ƏLYETMƏZLİK	is.;
+ƏLYOVM	is.;
+ƏLYÖVM	zer.;

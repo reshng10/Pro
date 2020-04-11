@@ -1,0 +1,13 @@
+POÇT	is.;
+POÇT(A)	is.;
+POÇT-AVTOMAT	is.;
+POÇT-BAQAJ	is.;
+POÇT-RABİTƏ	is.;
+POÇT-TELEQRAF	is.;
+POÇTALYON	is.;
+POÇTALYONLUQ	is.;
+POÇTAMT	is.;
+POÇTDAŞIMA	is.;
+POÇTXANA	is.;
+POÇTÇATDIRMA	is.;
+POÇTÇU	is.;

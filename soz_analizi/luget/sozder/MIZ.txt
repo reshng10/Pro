@@ -1,0 +1,13 @@
+MIZ	is.;
+MIZ-MIZ	teq.;
+MIZI	sif.;
+MIZILDA	f.;
+MIZILDAMAQ	f.;
+MIZILDAN	f.;
+MIZILDANMAQ	f.;
+MIZILDAYA-MIZILDAYA	zer.;
+MIZILDAŞ	f.;
+MIZILIQ	is.;
+MIZILTI	is.;
+MIZMIZ(I)	sif.;
+MIZMIZI	sif.;

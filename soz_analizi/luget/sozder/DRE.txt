@@ -1,0 +1,17 @@
+DREL	is.;
+DREN	is.;
+DRENAJLA	f.;
+DRENAJLAMA	f_is.;
+DRENAJLAMAQ	f.;
+DRENAJLAN	f.;
+DRENAJLANMA	f_is.;
+DRENAJLANMAQ	mech.;
+DRENAJTƏMİZLƏMƏ	f.;
+DRENAJTƏMİZLƏYƏN	is.;
+DRENDÜZƏN	is.;
+DRENLƏ	f.;
+DRENLƏMƏ	f.;
+DRENLƏN	f.;
+DRENLƏŞDİRİLMİŞ	f_sif.;
+DREYSEN	is.;
+DREZİN	is.;

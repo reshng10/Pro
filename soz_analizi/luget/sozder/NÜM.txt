@@ -1,0 +1,17 @@
+NÜMAYAN	sif.;
+NÜMAYİŞ	is.;
+NÜMAYİŞKARANƏ	zer.;
+NÜMAYİŞÇİ	is.;
+NÜMAYƏNDƏ	is.;
+NÜMAYƏNDƏLİ	sif.;
+NÜMAYƏNDƏLİK	is.;
+NÜMUNƏ	is.;
+NÜMUNƏ-TƏCRÜBƏ	is.;
+NÜMUNƏGÖTÜRMƏ	is.;
+NÜMUNƏGÖTÜRƏN	is.;
+NÜMUNƏLİK	sif.;
+NÜMUNƏSİZ	sif.;
+NÜMUNƏVİ	sif.;
+NÜMUNƏVİLİK	is.;
+NÜMUNƏVİLƏŞDİRİL	f.;
+NÜMUNƏVİLƏŞDİRİLMƏ	f.;

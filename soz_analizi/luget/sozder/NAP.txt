@@ -1,0 +1,5 @@
+NAPAK	sif.;
+NAPAKLIQ	is.;
+NAPOLEON	is.;
+NAPOLEONDOR	is.;
+NAPOLEONŞÜNAS	is.;

@@ -1,0 +1,12 @@
+FEOD	is.;
+FEODAL	sif.;
+FEODAL-KLERİKAL	sif.;
+FEODAL-MÜLKƏDAR	is.;
+FEODAL-QƏBİLƏ	is.;
+FEODAL-TƏHKİMÇİ	is.;
+FEODAL-TƏHKİMÇİLİK	is.;
+FEODALCA	zer.;
+FEODALCASINA	zer.;
+FEODALLAŞ	f.;
+FEODALLIQ	is.;
+FEODALİZM	is.;

@@ -1,0 +1,12 @@
+PLOMB	is.;
+PLOMBLA	f.;
+PLOMBLAMAQ	f.;
+PLOMBLAN	f.;
+PLOMBLANMAQ	f.;
+PLOMBLAT	f.;
+PLOMBLU	sif.;
+PLOMBSUZ	sif.;
+PLOMBİR	is.;
+PLOMBİR	is.;
+PLOV	is.;
+PLOVLUQ	sif.;

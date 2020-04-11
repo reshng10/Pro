@@ -1,0 +1,13 @@
+LÖVBƏR	is.;
+LÖVBƏRLİ	sif.;
+LÖVBƏROTU	is.;
+LÖVHƏ	is.;
+LÖVHƏCİK	is.;
+LÖVHƏLİ	sif.;
+LÖVHƏLİ-LANSETVARI	sif.;
+LÖVHƏQƏLSƏMƏLİ	sif.;
+LÖVHƏTULLAMA	is.;
+LÖVHƏTULLAYAN	is.;
+LÖVHƏVARI	sif.;
+LÖVHƏYAZAN	is.;
+LÖVHƏŞƏKİLLİ	sif.;

@@ -1,0 +1,5 @@
+İMKAN	is.;
+İMKANLI	sif.;
+İMKANLILIQ	is.;
+İMKANSIZ	sif.;
+İMKANSIZLIQ	is.;

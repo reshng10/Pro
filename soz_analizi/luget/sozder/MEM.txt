@@ -1,0 +1,11 @@
+MEMAR	is.;
+MEMARBAŞI	is.;
+MEMARLIQ	is.;
+MEMBRAN	is.;
+MEMBRANOLOGİYA	is.;
+MEMORANDUM	is.;
+MEMORİAL	is.;
+MEMUAR	is.;
+MEMUAR-SALNAMƏ	is.;
+MEMUARÇI	is.;
+MEMUARİST	is.;

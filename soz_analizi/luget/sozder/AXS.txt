@@ -1,0 +1,10 @@
+AXSA	f.;
+AXSAMAQ	f.;
+AXSAQ	sif.;
+AXSAQLIQ	is.;
+AXSAQULAQ	is.;
+AXSAR	sif.;
+AXSARLIQ	is.;
+AXSAT	f.;
+AXSATMAQ	f.;
+AXSAYA-AXSAYA	zer.;

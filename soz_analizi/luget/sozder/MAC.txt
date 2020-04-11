@@ -1,0 +1,14 @@
+MAC	is.;
+MAC	is.;
+MACAL	is.;
+MACAL-AMAN	is.;
+MACALSIZ	sif.;
+MACALSIZLIQ	is.;
+MACAR	is.;
+MACAR(LAR)	is.;
+MACARCA	sif.;zer.;
+MACƏRA	is.;
+MACƏRACU-MACƏRAÇI	is.;
+MACƏRACULUQ-MACƏRAÇILIQ	is.;
+MACƏRAÇI	is.;sif.;
+MACƏRAÇILIQ	is.;

@@ -1,0 +1,11 @@
+AZMAN	sif.;
+AZMANLIQ	is.;
+AZMAQ	f.;
+AZMETRAJLI	sif.;
+AZMEŞƏLİ	sif.;
+AZMIŞ	f.;
+AZMÜDDƏTLİ	sif.;
+AZMƏHSULLU	sif.;
+AZMƏLUMATLI	sif.;
+AZMƏNFƏƏTLİ	sif.;
+AZMƏRTƏBƏLİ	sif.;

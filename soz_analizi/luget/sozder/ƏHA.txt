@@ -1,0 +1,13 @@
+ƏHALİ	is.;
+ƏHALİSİZ	sif.;
+ƏHALİSİZLİK	is.;
+ƏHATƏ	is.;
+ƏHATƏEDİCİ	sif.;
+ƏHATƏLİ	sif.;
+ƏHATƏLİLİK	is.;
+ƏHATƏLƏ	f.;
+ƏHATƏLƏMƏ	f.;
+ƏHATƏLƏMƏK	f.;
+ƏHATƏLƏN	f.;
+ƏHATƏLƏNMƏ	f.;
+ƏHATƏLƏNMƏK	f.;

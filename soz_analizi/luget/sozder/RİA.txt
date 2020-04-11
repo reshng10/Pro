@@ -1,0 +1,6 @@
+RİAL	is.;
+RİAYƏT	is.;
+RİAYƏTETMƏ	f_sif.;
+RİAYƏTKAR	sif.;
+RİAYƏTKARLIQ	is.;
+RİAYƏTSİZLİK	is.;

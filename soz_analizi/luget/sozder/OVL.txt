@@ -1,0 +1,7 @@
+OVLA	f.;
+OVLAMAQ	f.;
+OVLAN	f.;
+OVLANMAQ	f.;
+OVLAQ	is.;
+OVLAQLI	sif.;
+OVLAT	f.;

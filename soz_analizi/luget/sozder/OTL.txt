@@ -1,0 +1,13 @@
+OTLA	f.;
+OTLADIL	f.;
+OTLAMAQ	f.;
+OTLAN	f.;
+OTLAQ	is.;
+OTLAQLI	sif.;
+OTLAT	f.;
+OTLATMAQ	f.;
+OTLAĞAN	sif.;
+OTLU	sif.;
+OTLU-SULU	sif.;
+OTLULUQ	is.;
+OTLUQ	is.;

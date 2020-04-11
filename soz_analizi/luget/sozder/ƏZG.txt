@@ -1,0 +1,15 @@
+ƏZGİL	is.;
+ƏZGİLBURUN	sif.;
+ƏZGİLLİ	sif.;
+ƏZGİLLİK	is.;
+ƏZGİLVARI	sif.;
+ƏZGİLŞƏKİLLİ	sif.;
+ƏZGİLƏBƏNZƏR	sif.;
+ƏZGİN	zer.;sif.;
+ƏZGİN-ÜZGÜN	sif.;zer.;
+ƏZGİNLİK	is.;
+ƏZGİNLƏŞ	f.;
+ƏZGİNLƏŞMƏ	f_is.;
+ƏZGİNLƏŞMƏK	f.;
+ƏZGİNİŞ	is.;
+ƏZGƏN	sif.;

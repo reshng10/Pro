@@ -1,0 +1,5 @@
+TIN-TIN	teqlidi.;
+TINCIX	f.;
+TINCIXDIR	f.;
+TINCIXMA	is.;
+TINCIXMAQ	is.;

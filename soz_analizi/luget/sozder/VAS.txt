@@ -1,0 +1,10 @@
+VASSALLIQ	is.;
+VASVASI	sif.;
+VASVASILIQ	is.;
+VASİL	is.;
+VASİTƏ	is.;
+VASİTƏLİ	sif.;
+VASİTƏSİLƏ	zer.;
+VASİTƏSİZ	sif.;
+VASİTƏÇİ	is.;
+VASİTƏÇİLİK	is.;

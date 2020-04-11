@@ -1,0 +1,12 @@
+ÖVLAD	is.;
+ÖVLADCANLI	sif.;
+ÖVLADCANLILIQ	is.;
+ÖVLADLI	sif.;
+ÖVLADLIQ	is.;
+ÖVLADLIĞAGÖTÜRMƏ	is.;
+ÖVLADPƏRƏST	sif.;
+ÖVLADPƏRƏSTLİK	is.;
+ÖVLADSEVƏN	sif.;
+ÖVLADSIZ	sif.;
+ÖVLADSIZLIQ	is.;
+ÖVLİYA	is.;

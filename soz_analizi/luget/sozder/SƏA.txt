@@ -1,0 +1,5 @@
+SƏADƏT	is.;
+SƏADƏT-SEVİNC	is.;
+SƏADƏTLİ	sif.;
+SƏADƏTSİZ	sif.;
+SƏADƏTSİZLİK	is.;

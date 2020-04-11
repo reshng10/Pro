@@ -1,0 +1,10 @@
+ANKER	is.;
+ANKERLİ	sif.;
+ANKERİT	is.;
+ANKET	is.;
+ANKET-SORĞU	is.;
+ANKLAV	is.;
+ANKİLOSTOMİD	is.;
+ANKİLOSTOMİDOZ	is.;
+ANKİLOZ	is.;
+ANKİLOZAVR	is.;

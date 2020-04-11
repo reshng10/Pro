@@ -1,0 +1,12 @@
+LIRT	sif.;
+LIRTILDA	f.;
+LIRTILDAT	f.;
+LIRTILDAŞ	f.;
+LIRTLAŞ	f.;
+LIRTLIQ	is.;
+LIRTMAC	is.;
+LIRTQARIN	sif.;
+LIRTQARINLIQ	is.;
+LIRÇILDA	f.;
+LIRÇILDAMAQ	f.;
+LIRÇILTI	teqlidi. soz;

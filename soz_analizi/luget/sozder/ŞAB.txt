@@ -1,0 +1,8 @@
+ŞABALID	is.;
+ŞABALIDI	sif.;
+ŞABALIDLIQ	is.;
+ŞABALIDSAÇ	sif.;
+ŞABALIDYARPAQ	sif.;
+ŞABAŞ	is.;
+ŞABLON	sif.;
+ŞABLONLUQ	is.;

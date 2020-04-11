@@ -1,0 +1,7 @@
+AC-ACINA	zer.;
+AC-LƏLÖYÜN	is.;
+AC-SUSUZ	sif.;zer.;
+AC-YALAVAC	sif.;zer.;
+AC-YORĞUN	is.;
+AC-ÇILPAQ	sif.;
+AC-ÜRYAN	is.;

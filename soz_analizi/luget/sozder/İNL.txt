@@ -1,0 +1,7 @@
+İNLƏ	f.;
+İNLƏMƏ	f_is.;
+İNLƏMƏK	f.;
+İNLƏT	f.;
+İNLƏTMƏ	f_is.;
+İNLƏTMƏK	icb.;
+İNLƏYİŞ	is.;

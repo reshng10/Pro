@@ -1,0 +1,12 @@
+ƏDVİYYAT	top.;
+ƏDVİYYATLI	sif.;
+ƏDVİYYƏ	is.;
+ƏDVİYYƏLİ	sif.;
+ƏDVİYYƏLƏ	zer.;
+ƏDVİYYƏLƏMƏ	f.;is.;
+ƏDVİYYƏLƏMƏK	f.;
+ƏDVİYYƏLƏN	f.;
+ƏDVİYYƏLƏNMƏ	f_is.;
+ƏDVİYYƏLƏNMƏK	mech.;
+ƏDVƏ	top.;
+ƏDVƏCAT	top.;

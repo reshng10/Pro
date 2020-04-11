@@ -1,0 +1,4 @@
+SUŞEYTANI	is.;
+SUŞİRİNLƏŞDİRMƏ	f.;
+SUŞİRİNLƏŞDİRİCİ	sif.;
+SUŞİRİNLƏŞDİRƏN	f_sif.;

@@ -1,0 +1,10 @@
+BİABIR	sif.;
+BİABIRCASINA	zer.;
+BİABIRÇI	sif.;
+BİABIRÇILIQ	is.;
+BİAMAN	is.;
+BİAR	is.;sif.;
+BİARAM	sif.;
+BİARLIQ	is.;
+BİATLON	is.;
+BİATLONÇU	is.;

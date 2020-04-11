@@ -1,0 +1,4 @@
+ASDIR	f.;
+ASDIRIL	f.;
+ASDIRILMAQ	f.;
+ASDIRMAQ	f.;

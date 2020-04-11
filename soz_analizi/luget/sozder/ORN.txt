@@ -1,0 +1,16 @@
+ORNAMENT	is.;
+ORNAMENTAL	sif.;
+ORNAMENTALÇI	is.;
+ORNAMENTLİ	sif.;
+ORNAMENTÇİ	is.;
+ORNAMENTÇİLİK	is.;
+ORNAMENTİKA	is.;
+ORNOTOPOD	is.;
+ORNİTOFAUNA	is.;
+ORNİTOFİLİYA	is.;
+ORNİTOLOGİYA	is.;
+ORNİTOLOJİ	sif.;
+ORNİTOLOQ	is.;
+ORNİTONİM	is.;
+ORNİTOPTER	is.;
+ORNİTOZ	is.;

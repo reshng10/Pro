@@ -1,0 +1,9 @@
+SUKEÇMƏZ	sif.;
+SUKEÇMƏZLİK	is.;
+SUKEÇİRMƏ	f.;
+SUKEÇİRMƏYƏN	f_sif.;
+SUKEÇİRMƏZ	f_sif.;
+SUKEÇİRMƏZLİK	is.;
+SUKEÇİRİCİ	sif.;
+SUKEÇİRƏN	f_sif.;
+SUKƏSƏN	is.;

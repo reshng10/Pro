@@ -1,0 +1,4 @@
+ADYAL	is.;
+ADYUNKT	is.;
+ADYUTANT	is.;
+ADYUTANTLIQ	is.;

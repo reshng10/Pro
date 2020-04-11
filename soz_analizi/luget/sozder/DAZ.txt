@@ -1,0 +1,16 @@
+DAZ	is.;sif.;
+DAZ-DAZALAQ	is.;
+DAZALAQ	is.;
+DAZBAŞ	sif.;
+DAZBAŞLI	sif.;
+DAZBAŞLIQ	is.;
+DAZI	is.;
+DAZILA	f.;
+DAZLAN	f.;
+DAZLANMAQ	f.;
+DAZLAŞ	f.;
+DAZLAŞDIR	f.;
+DAZLAŞDIRMAQ	f.;
+DAZLAŞMAQ	f.;
+DAZLAŞMIŞ	f.;
+DAZLIQ	is.;

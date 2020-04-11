@@ -1,0 +1,12 @@
+OĞRAŞ	is.;
+OĞRAŞLIQ	is.;
+OĞRU	is.;
+OĞRU-QULDUR	is.;
+OĞRU-ƏYRİ	is.;
+OĞRU-ƏYRİLİK	is.;
+OĞRUBAŞI	is.;
+OĞRUBAŞILIQ	is.;
+OĞRUN	sif.;zer.;
+OĞRUN-OĞRUN	zer.;
+OĞRUNCA	sif.;zer.;
+OĞRUNCASINA	zer.;

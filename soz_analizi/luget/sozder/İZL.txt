@@ -1,0 +1,14 @@
+İZLİ	sif.;
+İZLƏ	f.;
+İZLƏMƏ	f.is.;
+İZLƏMƏK	f.;
+İZLƏN	f.;
+İZLƏNMƏ	f.is.;
+İZLƏNMƏK	f.;
+İZLƏT	f.;
+İZLƏTDİR	f.;
+İZLƏTDİRMƏ	f.is.;
+İZLƏTDİRMƏK	f.;
+İZLƏTMƏ	f.;
+İZLƏTMƏK	f.;
+İZLƏYİCİ	is.;

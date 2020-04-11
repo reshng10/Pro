@@ -1,0 +1,11 @@
+RAST	is.;
+RAST	sif.;
+RASTA	is.;
+RASTABAZAR	is.;
+RASTLAŞ	f.;
+RASTLAŞDIR	f.;
+RASTLAŞDIRIL	f.;
+RASTLAŞMA	f_is.;
+RASTLAŞMAQ	f.;
+RASİONALLIQ	is.;
+RASİONLU	sif.;

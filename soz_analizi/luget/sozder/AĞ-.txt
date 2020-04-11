@@ -1,0 +1,10 @@
+AĞ-ALA	sif.;
+AĞ-AŞKAR	sif.;
+AĞ-BAN	is.;
+AĞ-BOZ	sif.;
+AĞ-BƏNÖVŞƏYİ	sif.;
+AĞ-QARA	sif.;
+AĞ-QIRMIZI	sif.;
+AĞ-SARI	sif.;
+AĞ-SARIMTIL	sif.;
+AĞ-ÇƏHRAYI	sif.;

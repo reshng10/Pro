@@ -1,0 +1,8 @@
+EL-ALƏM	is.;
+EL-AĞIZ	is.;
+EL-ELAT	is.;
+EL-GÜN	is.;
+EL-OBA	is.;
+EL-ULUS	is.;
+EL-XALQ	is.;
+EL-YURD	is.;

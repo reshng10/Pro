@@ -1,0 +1,9 @@
+AREAL	is.;
+AREALLI	sif.;
+ARENA	is.;
+ARENQA	is.;
+AREOMETR	is.;
+AREOMETRİK	is.;
+AREOMETRİYA	is.;
+AREOPAQ	is.;
+AREOPİKNOMETR	is.;

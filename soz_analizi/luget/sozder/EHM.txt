@@ -1,0 +1,9 @@
+EHMAL	is.;zer.;
+EHMAL-EHMAL	is.;
+EHMALCA	zer.;
+EHMALDAN	zer.;
+EHMALLI	is.;zer.;
+EHMALLICA	zer.;
+EHMALLILIQ	is.;
+EHMALSIZ	zer.;
+EHMALSIZLIQ	is.;

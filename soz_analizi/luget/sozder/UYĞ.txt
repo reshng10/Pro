@@ -1,0 +1,9 @@
+UYĞUN	sif.;
+UYĞUNLAŞ	f.;
+UYĞUNLAŞDIR	f.;
+UYĞUNLAŞDIRIL	f.;
+UYĞUNLUQ	is.;
+UYĞUNSUZ	sif.;
+UYĞUNSUZLUQ	is.;
+UYĞUR	is.;
+UYĞURCA	zer.;
